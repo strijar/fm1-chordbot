@@ -1,0 +1,201 @@
+format: chordbot-linux
+version: 1
+name: Infanthem
+tempo: 120
+sections:
+- name: Intro
+  preset: -1
+  reverb: 10
+  chorus: 4
+  parts:
+  - track: 14
+    volume: 7
+  - track: 195
+    volume: 4
+  chords:
+  - root: C#
+    type: Min
+    beats: 6
+    inversion: 3
+  - root: B
+    type: Maj
+    beats: 2
+    bass: D#
+  - root: E
+    type: Maj
+    beats: 6
+  - root: F#
+    type: Min
+    beats: 2
+  - root: E
+    type: Maj
+    beats: 4
+    bass: G#
+  - root: F#
+    type: Min
+    beats: 2
+    bass: A
+  - root: E
+    type: Maj
+    beats: 2
+  - root: B
+    type: Maj
+    beats: 6
+  - root: C#
+    type: '7'
+    beats: 2
+  - root: F#
+    type: Min
+    beats: 6
+  - root: E
+    type: Maj
+    beats: 2
+  - root: A
+    type: Maj
+    beats: 6
+  - root: B
+    type: Min
+    beats: 2
+  - root: A
+    type: Maj
+    beats: 4
+    bass: C#
+  - root: B
+    type: Min
+    beats: 2
+    bass: D
+  - root: D
+    type: Maj7
+    beats: 2
+  - root: E
+    type: Maj
+    beats: 6
+  - root: F#
+    type: '7'
+    beats: 2
+  - root: B
+    type: Min
+    beats: 6
+  - root: F#
+    type: Min7
+    beats: 2
+  - root: G
+    type: Maj
+    beats: 4
+  - root: E
+    type: Min7
+    beats: 4
+  - root: D
+    type: Maj
+    beats: 4
+    bass: A
+  - root: A
+    type: Maj
+    beats: 4
+  - root: C#
+    type: Min
+    beats: 4
+    bass: G#
+  - root: G#
+    type: Maj
+    beats: 4
+- name: Main
+  preset: -1
+  reverb: 8
+  chorus: 4
+  parts:
+  - track: 14
+    volume: 7
+  - track: 269
+    volume: 8
+  - track: 267
+    volume: 5
+  - track: 172
+    volume: 4
+  chords:
+  - root: C#
+    type: Min
+    beats: 6
+    inversion: 3
+  - root: B
+    type: Maj
+    beats: 2
+    bass: D#
+  - root: E
+    type: Maj
+    beats: 6
+  - root: F#
+    type: Min
+    beats: 2
+  - root: E
+    type: Maj
+    beats: 4
+    bass: G#
+  - root: F#
+    type: Min
+    beats: 2
+    bass: A
+  - root: E
+    type: Maj
+    beats: 2
+  - root: B
+    type: Maj
+    beats: 6
+  - root: C#
+    type: '7'
+    beats: 2
+  - root: F#
+    type: Min
+    beats: 6
+  - root: E
+    type: Maj
+    beats: 2
+  - root: A
+    type: Maj
+    beats: 6
+  - root: B
+    type: Min
+    beats: 2
+  - root: A
+    type: Maj
+    beats: 4
+    bass: C#
+  - root: B
+    type: Min
+    beats: 2
+    bass: D
+  - root: D
+    type: Maj7
+    beats: 2
+  - root: E
+    type: Maj
+    beats: 6
+  - root: F#
+    type: '7'
+    beats: 2
+  - root: B
+    type: Min
+    beats: 6
+  - root: F#
+    type: Min7
+    beats: 2
+  - root: G
+    type: Maj
+    beats: 4
+  - root: E
+    type: Min7
+    beats: 4
+  - root: D
+    type: Maj
+    beats: 4
+    bass: A
+  - root: A
+    type: Maj
+    beats: 4
+  - root: C#
+    type: Min
+    beats: 4
+    bass: G#
+  - root: G#
+    type: Maj
+    beats: 4

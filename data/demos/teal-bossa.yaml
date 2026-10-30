@@ -1,0 +1,109 @@
+format: chordbot-linux
+version: 1
+name: Teal Bossa
+tempo: 115
+sections:
+- name: Section 1
+  preset: -1
+  reverb: 4
+  chorus: 2
+  parts:
+  - track: 100
+    volume: 6
+  - track: 89
+    volume: 7
+  - track: 305
+    volume: 7
+  chords:
+  - root: A
+    type: Min7
+    beats: 8
+    inversion: 5
+  - root: D
+    type: Min7
+    beats: 8
+  - root: B
+    type: Min7(b5)
+    beats: 4
+  - root: E
+    type: Aug7
+    beats: 4
+  - root: A
+    type: Min7
+    beats: 8
+  - root: C
+    type: Min7
+    beats: 4
+  - root: F
+    type: '7'
+    beats: 4
+  - root: Bb
+    type: Maj7
+    beats: 8
+  - root: B
+    type: Min7(b5)
+    beats: 4
+  - root: E
+    type: Aug7
+    beats: 4
+  - root: A
+    type: Min7
+    beats: 4
+  - root: B
+    type: Min7(b5)
+    beats: 2
+  - root: E
+    type: Aug7
+    beats: 2
+- name: Section 2
+  preset: -1
+  reverb: 6
+  chorus: 2
+  parts:
+  - track: 98
+    volume: 6
+  - track: 130
+    volume: 7
+  - track: 194
+    volume: 6
+  chords:
+  - root: A
+    type: Min7
+    beats: 8
+    inversion: 8
+  - root: D
+    type: Min7
+    beats: 8
+  - root: B
+    type: Min7(b5)
+    beats: 4
+  - root: E
+    type: Aug7
+    beats: 4
+  - root: A
+    type: Min7
+    beats: 8
+  - root: C
+    type: Min7
+    beats: 4
+  - root: F
+    type: '7'
+    beats: 4
+  - root: Bb
+    type: Maj7
+    beats: 8
+  - root: B
+    type: Min7(b5)
+    beats: 4
+  - root: E
+    type: Aug7
+    beats: 4
+  - root: A
+    type: Min7
+    beats: 4
+  - root: B
+    type: Min7(b5)
+    beats: 2
+  - root: E
+    type: Aug7
+    beats: 2

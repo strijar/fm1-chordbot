@@ -1,0 +1,131 @@
+format: chordbot-linux
+version: 1
+name: Machine
+tempo: 80
+sections:
+- name: Section 1
+  preset: -1
+  reverb: 12
+  chorus: 4
+  parts:
+  - track: 2
+    volume: 7
+  - track: 50
+    volume: 7
+  - track: 57
+    volume: 7
+  chords:
+  - root: F
+    type: MinAdd9
+    beats: 4
+    inversion: 7
+  - root: C
+    type: Maj
+    beats: 2
+    bass: E
+  - root: F
+    type: Min7
+    beats: 2
+  - root: Bb
+    type: MinAdd9
+    beats: 4
+  - root: Eb
+    type: '13'
+    beats: 4
+  - root: Db
+    type: Maj7
+    beats: 4
+  - root: Eb
+    type: Maj
+    beats: 2
+  - root: Ab
+    type: Maj9
+    beats: 2
+  - root: A
+    type: Min7(b5)
+    beats: 4
+  - root: D
+    type: '7'
+    beats: 2
+  - root: G
+    type: Maj9
+    beats: 2
+  - root: A
+    type: Min9
+    beats: 4
+  - root: F
+    type: '13'
+    beats: 4
+- name: Section 2
+  preset: -1
+  reverb: 12
+  chorus: 4
+  parts:
+  - track: 40
+    volume: 6
+  - track: 48
+    volume: 6
+  - track: 57
+    volume: 6
+  chords:
+  - root: Db
+    type: Min7(b5)
+    beats: 4
+    inversion: 7
+  - root: C
+    type: 7(b5)
+    beats: 4
+  - root: A
+    type: Min9
+    beats: 4
+  - root: Ab
+    type: Min7
+    beats: 4
+  - root: A
+    type: Min9
+    beats: 4
+  - root: C
+    type: Maj
+    beats: 4
+    bass: D
+  - root: B
+    type: Min7(b5)
+    beats: 4
+    bass: F
+  - root: B
+    type: Min11
+    beats: 2
+  - root: Bb
+    type: '13'
+    beats: 2
+  - root: A
+    type: Min9
+    beats: 4
+  - root: Gb
+    type: 7(#9)
+    beats: 4
+  - root: B
+    type: Min11
+    beats: 2
+  - root: Bb
+    type: Min11
+    beats: 2
+  - root: A
+    type: Min11
+    beats: 4
+  - root: A
+    type: Min7
+    beats: 4
+  - root: E
+    type: Min7
+    beats: 4
+  - root: Eb
+    type: Maj7
+    beats: 4
+  - root: D
+    type: '11'
+    beats: 2
+  - root: Db
+    type: Aug
+    beats: 2
+    bass: Eb

@@ -1,0 +1,89 @@
+format: chordbot-linux
+version: 1
+name: Chord Lord
+tempo: 115
+sections:
+- name: Root inversion
+  preset: -1
+  reverb: 12
+  chorus: 4
+  parts:
+  - track: 181
+    volume: 8
+  - track: 129
+    volume: 6
+  - track: 280
+    volume: 8
+  chords:
+  - root: E
+    type: Min
+    beats: 2
+    inversion: 6
+  - root: B
+    type: Maj
+    beats: 2
+  - root: D
+    type: Maj
+    beats: 2
+  - root: A
+    type: Maj
+    beats: 2
+  - root: B
+    type: Maj
+    beats: 4
+- name: First inversion
+  preset: -1
+  reverb: 12
+  chorus: 4
+  parts:
+  - track: 181
+    volume: 8
+  - track: 129
+    volume: 6
+  - track: 280
+    volume: 8
+  chords:
+  - root: E
+    type: Min
+    beats: 2
+    inversion: 7
+  - root: B
+    type: Maj
+    beats: 2
+  - root: D
+    type: Maj
+    beats: 2
+  - root: A
+    type: Maj
+    beats: 2
+  - root: B
+    type: Maj
+    beats: 4
+- name: Second inversion
+  preset: -1
+  reverb: 12
+  chorus: 4
+  parts:
+  - track: 181
+    volume: 8
+  - track: 129
+    volume: 6
+  - track: 280
+    volume: 8
+  chords:
+  - root: E
+    type: Min
+    beats: 2
+    inversion: 8
+  - root: B
+    type: Maj
+    beats: 2
+  - root: D
+    type: Maj
+    beats: 2
+  - root: A
+    type: Maj
+    beats: 2
+  - root: B
+    type: Maj
+    beats: 4

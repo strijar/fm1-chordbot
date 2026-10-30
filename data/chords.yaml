@@ -1,0 +1,454 @@
+version: 1
+chords:
+- name: Maj
+  notes:
+  - 0
+  - 4
+  - 7
+- name: Min
+  notes:
+  - 0
+  - 3
+  - 7
+- name: '5'
+  notes:
+  - 0
+  - 7
+- name: Maj7
+  notes:
+  - 0
+  - 4
+  - 7
+  - 11
+- name: Min7
+  notes:
+  - 0
+  - 3
+  - 7
+  - 10
+- name: '7'
+  notes:
+  - 0
+  - 4
+  - 7
+  - 10
+- name: Maj9
+  notes:
+  - 0
+  - 4
+  - 11
+  - 14
+- name: Min9
+  notes:
+  - 0
+  - 3
+  - 10
+  - 14
+- name: '9'
+  notes:
+  - 0
+  - 4
+  - 10
+  - 14
+- name: Maj11
+  notes:
+  - 4
+  - 11
+  - 14
+  - 17
+- name: Min11
+  notes:
+  - 3
+  - 10
+  - 14
+  - 17
+- name: '11'
+  notes:
+  - 4
+  - 10
+  - 14
+  - 17
+- name: Maj13
+  notes:
+  - 4
+  - 9
+  - 11
+  - 14
+- name: Min13
+  notes:
+  - 3
+  - 9
+  - 10
+  - 14
+- name: '13'
+  notes:
+  - 4
+  - 9
+  - 10
+  - 14
+- name: Dim
+  notes:
+  - 0
+  - 3
+  - 6
+- name: Aug
+  notes:
+  - 0
+  - 4
+  - 8
+- name: Sus2
+  notes:
+  - 0
+  - 2
+  - 7
+- name: Dim7
+  notes:
+  - 0
+  - 3
+  - 6
+  - 9
+- name: Aug7
+  notes:
+  - 0
+  - 4
+  - 8
+  - 10
+- name: Sus4
+  notes:
+  - 0
+  - 5
+  - 7
+- name: Add4
+  notes:
+  - 0
+  - 4
+  - 5
+  - 12
+- name: MinAdd4
+  notes:
+  - 0
+  - 3
+  - 5
+  - 12
+- name: 7Add4
+  notes:
+  - 0
+  - 4
+  - 5
+  - 10
+- name: Min7Add4
+  notes:
+  - 0
+  - 3
+  - 5
+  - 10
+- name: Add9
+  notes:
+  - 0
+  - 4
+  - 7
+  - 14
+- name: MinAdd9
+  notes:
+  - 0
+  - 3
+  - 7
+  - 14
+- name: 7Sus2
+  notes:
+  - 0
+  - 2
+  - 7
+  - 10
+- name: Maj7Sus4
+  notes:
+  - 0
+  - 5
+  - 7
+  - 11
+- name: 7Sus4
+  notes:
+  - 0
+  - 5
+  - 7
+  - 10
+- name: 9Sus4
+  notes:
+  - 0
+  - 7
+  - 10
+  - 14
+- name: '6'
+  notes:
+  - 0
+  - 4
+  - 7
+  - 9
+- name: Min6
+  notes:
+  - 0
+  - 3
+  - 7
+  - 9
+- name: 7/6
+  notes:
+  - 0
+  - 4
+  - 9
+  - 10
+- name: 6/9
+  notes:
+  - 0
+  - 4
+  - 9
+  - 14
+- name: Min6/9
+  notes:
+  - 0
+  - 3
+  - 9
+  - 14
+- name: 9/6
+  notes:
+  - 0
+  - 9
+  - 10
+  - 14
+- name: MinMaj7
+  notes:
+  - 0
+  - 3
+  - 7
+  - 11
+- name: MinMaj9
+  notes:
+  - 0
+  - 3
+  - 11
+  - 14
+- name: MinMaj11
+  notes:
+  - 3
+  - 11
+  - 14
+  - 17
+- name: Sus2Sus4
+  notes:
+  - 0
+  - 2
+  - 5
+  - 7
+- name: AugAdd2
+  notes:
+  - 0
+  - 2
+  - 4
+  - 8
+- name: DimAdd4
+  notes:
+  - 0
+  - 4
+  - 5
+  - 8
+- name: Maj(b5)
+  notes:
+  - 0
+  - 4
+  - 6
+- name: Min(b5)
+  notes:
+  - 0
+  - 3
+  - 6
+- name: Min(#5)
+  notes:
+  - 0
+  - 3
+  - 8
+- name: Maj7(b5)
+  notes:
+  - 0
+  - 4
+  - 6
+  - 11
+- name: Min7(b5)
+  notes:
+  - 0
+  - 3
+  - 6
+  - 10
+- name: 7(b5)
+  notes:
+  - 0
+  - 4
+  - 6
+  - 10
+- name: Maj7(#5)
+  notes:
+  - 0
+  - 4
+  - 8
+  - 11
+- name: Min7(#5)
+  notes:
+  - 0
+  - 3
+  - 8
+  - 10
+- name: 7(#5)
+  notes:
+  - 0
+  - 4
+  - 8
+  - 10
+- name: Maj7(b9)
+  notes:
+  - 0
+  - 4
+  - 11
+  - 13
+- name: Min7(b9)
+  notes:
+  - 0
+  - 3
+  - 10
+  - 13
+- name: 7(b9)
+  notes:
+  - 0
+  - 4
+  - 10
+  - 13
+- name: Maj7(#9)
+  notes:
+  - 0
+  - 4
+  - 11
+  - 15
+- name: Min7(#9)
+  notes:
+  - 0
+  - 3
+  - 10
+  - 15
+- name: 7(#9)
+  notes:
+  - 0
+  - 4
+  - 10
+  - 15
+- name: Maj7(#11)
+  notes:
+  - 4
+  - 6
+  - 7
+  - 11
+- name: Min7(#11)
+  notes:
+  - 3
+  - 6
+  - 7
+  - 10
+- name: 7(#11)
+  notes:
+  - 4
+  - 6
+  - 7
+  - 10
+- name: Maj(#5)
+  notes:
+  - 0
+  - 4
+  - 8
+- name: Maj(#9)
+  notes:
+  - 0
+  - 4
+  - 10
+  - 15
+- name: Maj(#11)
+  notes:
+  - 0
+  - 4
+  - 14
+  - 18
+- name: Maj(b9b5)
+  notes:
+  - 0
+  - 6
+  - 10
+  - 13
+- name: Maj(b9#5)
+  notes:
+  - 0
+  - 8
+  - 10
+  - 13
+- name: Maj(b9#11)
+  notes:
+  - 0
+  - 6
+  - 10
+  - 13
+- name: Maj(b9)
+  notes:
+  - 0
+  - 4
+  - 10
+  - 13
+- name: Maj9(#5)
+  notes:
+  - 4
+  - 8
+  - 11
+  - 14
+- name: Min11(b5)
+  notes:
+  - 3
+  - 6
+  - 10
+  - 17
+- name: Aug7(#9)
+  notes:
+  - 4
+  - 8
+  - 10
+  - 15
+- name: 9(b5)
+  notes:
+  - 0
+  - 6
+  - 10
+  - 14
+- name: 9(#5)
+  notes:
+  - 0
+  - 8
+  - 10
+  - 14
+- name: 7/13
+  notes:
+  - 0
+  - 4
+  - 9
+  - 10
+- name: 11(b9)
+  notes:
+  - 0
+  - 5
+  - 10
+  - 13
+- name: 13(b9)
+  notes:
+  - 0
+  - 9
+  - 10
+  - 13
+- name: 13(#11)
+  notes:
+  - 0
+  - 6
+  - 9
+  - 10
+- name: Silence
+  notes: []

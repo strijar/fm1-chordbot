@@ -1,0 +1,7405 @@
+version: 1
+tracks:
+- id: 207
+  name: Picked 01
+  category: 1
+  time: 4/4
+  instrument: 25
+  transpose: -12
+  volume: 2
+  patterns:
+  - - 0
+    - 4...............
+    - true
+  - - 3
+    - 2.....3.....3...
+  - - 4
+    - ..3.......4...3.
+  - - 5
+    - '....4...3.......'
+  - - 6
+    - 3.....3.....2...
+- id: 209
+  name: Picked 02
+  category: 1
+  time: 4/4
+  instrument: 25
+  transpose: -12
+  volume: 1
+  invert: false
+  patterns:
+  - - 0
+    - 5...............
+    - true
+  - - 2
+    - ..4...2.....4...
+  - - 3
+    - '....4...3.....4.'
+  - - 4
+    - '..........4.....'
+  - - 5
+    - '......5.........'
+- id: 211
+  name: Picked 03
+  category: 1
+  time: 4/4
+  instrument: 25
+  transpose: -12
+  volume: 1
+  patterns:
+  - - 0
+    - 4.......
+    - true
+  - - 3
+    - ..3...3.
+  - - 4
+    - '...4....'
+  - - 5
+    - '.....5..'
+  - - 6
+    - 4.......
+- id: 213
+  name: Picked 04
+  category: 1
+  time: 4/4
+  instrument: 25
+  transpose: -12
+  invert: false
+  patterns:
+  - - 0
+    - 6...............
+    - true
+  - - 2
+    - '........6.......'
+  - - 3
+    - ..4.......4.....
+  - - 4
+    - '....5.......5...'
+  - - 5
+    - '......6.......6.'
+- id: 215
+  name: Picked 05
+  category: 1
+  time: 4/4
+  instrument: 25
+  transpose: -12
+  volume: 1
+  patterns:
+  - - 0
+    - 5...............
+    - true
+  - - 3
+    - '......4.....4...'
+  - - 4
+    - '....4.....4.....'
+  - - 5
+    - ..5.....5.....5.
+  - - 6
+    - 6.....6.....6...
+- id: 217
+  name: Picked 06 - 6/8
+  category: 1
+  time: 4/4
+  instrument: 25
+  transpose: -12
+  patterns:
+  - - 0
+    - 6...........
+    - true
+  - - 3
+    - 4...........
+  - - 4
+    - 0.4.......4.
+  - - 5
+    - '....5...5...'
+  - - 6
+    - '......6.....'
+- id: 219
+  name: Picked 07
+  category: 1
+  time: 4/4
+  instrument: 25
+  transpose: -12
+  patterns:
+  - - 6
+    - 4.........4.....
+  - - 5
+    - 0.....5.......6.
+  - - 4
+    - 0...4.......5...
+  - - 3
+    - 0.......5.......
+  - - 0
+    - 6...............
+    - true
+- id: 220
+  name: Picked 08
+  category: 1
+  time: 4/4
+  instrument: 25
+  transpose: -12
+  patterns:
+  - - 6
+    - 0.....6.........
+  - - 5
+    - 0.5.........5...
+  - - 4
+    - 0...4.........6.
+  - - 3
+    - 0.........4.....
+  - - 0
+    - 6...............
+    - true
+- id: 223
+  name: Picked 09
+  category: 1
+  time: 4/4
+  instrument: 25
+  transpose: -12
+  patterns:
+  - - 6
+    - 5.........4.....
+  - - 5
+    - 0.....5.........
+  - - 4
+    - 0...4.......5...
+  - - 3
+    - 0.......5.......
+  - - 0
+    - 5...............
+    - true
+- id: 225
+  name: Picked 10
+  category: 1
+  time: 4/4
+  instrument: 25
+  transpose: -12
+  patterns:
+  - - 6
+    - 0.4.......4.....
+  - - 5
+    - 0.....6.......6.
+  - - 4
+    - 0...5.......5...
+  - - 3
+    - 0.......5.......
+  - - 0
+    - 5...............
+    - true
+- id: 227
+  name: Picked 11
+  category: 1
+  time: 4/4
+  instrument: 25
+  transpose: -12
+  patterns:
+  - - 6
+    - 0.....6.....
+  - - 5
+    - 0...4...5...
+  - - 4
+    - 0.5.......4.
+  - - 3
+    - 4...........
+  - - 0
+    - 5...........
+    - true
+- id: 229
+  name: Picked 12
+  category: 1
+  time: 4/4
+  instrument: 25
+  transpose: -12
+  patterns:
+  - - 6
+    - 0.....6.........
+  - - 5
+    - 0...5.....5.....
+  - - 4
+    - 0.4.....4.....6.
+  - - 3
+    - 0...........5...
+  - - 0
+    - 5...............
+    - true
+- id: 231
+  name: Picked 13
+  category: 1
+  time: 4/4
+  instrument: 25
+  transpose: -12
+  patterns:
+  - - 6
+    - '......6.........'
+  - - 5
+    - '..............6.'
+  - - 4
+    - ..4.......4.....
+  - - 3
+    - '....5.......5...'
+  - - 0
+    - 4...............
+    - true
+- id: 233
+  name: Picked 14
+  category: 1
+  time: 4/4
+  instrument: 25
+  transpose: -12
+  patterns:
+  - - 6
+    - '......6.......6.'
+  - - 5
+    - ..4.......4.....
+  - - 4
+    - '....5.......5...'
+  - - 3
+    - '........4.......'
+  - - 0
+    - 5...............
+    - true
+- id: 235
+  name: Picked 15
+  category: 1
+  time: 4/4
+  instrument: 25
+  transpose: -12
+  patterns:
+  - - 6
+    - 0.........5.....
+  - - 5
+    - 0.....5.........
+  - - 4
+    - 0...4.......4...
+  - - 3
+    - 0.......5.......
+  - - 0
+    - 5...............
+    - true
+- id: 237
+  name: Picked 16
+  category: 1
+  time: 4/4
+  instrument: 25
+  transpose: -12
+  patterns:
+  - - 6
+    - '........6.......'
+  - - 5
+    - '....5.....4...4.'
+  - - 4
+    - ..4...4.....5...
+  - - 3
+    - 3.......3.......
+  - - 0
+    - 6...............
+    - true
+- id: 239
+  name: Picked 17
+  category: 1
+  time: 4/4
+  instrument: 25
+  transpose: -12
+  patterns:
+  - - 7
+    - 0.......5.......
+  - - 6
+    - 0..........4....
+  - - 5
+    - 0.............3.
+  - - 4
+    - 0....3..........
+  - - 3
+    - 0.4.....3.......
+  - - 0
+    - 5...............
+    - true
+- id: 241
+  name: Picked 18
+  category: 1
+  time: 4/4
+  instrument: 25
+  transpose: -12
+  patterns:
+  - - 6
+    - 0....5..........
+  - - 5
+    - 0..4...4.......5
+  - - 4
+    - 0.3......3....4.
+  - - 3
+    - 4..........34...
+  - - 0
+    - 5...............
+    - true
+- id: 243
+  name: Picked 19
+  category: 1
+  time: 4/4
+  instrument: 25
+  transpose: -12
+  patterns:
+  - - 7
+    - '........6.......'
+  - - 6
+    - ..6...........6.
+  - - 5
+    - '....5.....5.....'
+  - - 4
+    - '......4.....4...'
+  - - 3
+    - '........3.....3.'
+  - - 0
+    - 6...............
+    - true
+- id: 244
+  name: Picked 20
+  category: 1
+  time: 4/4
+  instrument: 25
+  transpose: -12
+  patterns:
+  - - 7
+    - 0.......5.......
+  - - 6
+    - 5....4.......4..
+  - - 5
+    - 0..5.......5....
+  - - 4
+    - 0.4...5...4...5.
+  - - 3
+    - 0...5...3...5...
+  - - 0
+    - 6...............
+    - true
+- id: 245
+  name: Picked 21
+  category: 1
+  time: 4/4
+  instrument: 25
+  transpose: -12
+  patterns:
+  - - 7
+    - '.......5........'
+  - - 6
+    - 0..5.......5...4
+  - - 5
+    - 0.4...5...5...5.
+  - - 4
+    - 03...4...4...4..
+  - - 3
+    - 0...4...3...4...
+  - - 0
+    - 5...............
+    - true
+- id: 246
+  name: Picked 22
+  category: 1
+  time: 4/4
+  instrument: 25
+  transpose: -12
+  patterns:
+  - - 7
+    - 0.....6.........
+  - - 6
+    - '......3.......6.'
+  - - 5
+    - ..5.......5.....
+  - - 4
+    - 0...5.......6.3.
+  - - 0
+    - 5...............
+    - true
+- id: 247
+  name: Picked 23
+  category: 1
+  time: 4/4
+  instrument: 25
+  transpose: -12
+  patterns:
+  - - 6
+    - '.......4.4......'
+  - - 5
+    - '.....4....4.4...'
+  - - 4
+    - ..4...4....3.3..
+  - - 3
+    - 4........0....3.
+  - - 2
+    - 0..............3
+  - - 0
+    - 3...4...3...4...
+    - true
+- id: 248
+  name: Picked 24
+  category: 1
+  time: 4/4
+  instrument: 25
+  transpose: -12
+  patterns:
+  - - 6
+    - '............5...'
+  - - 5
+    - '......5.........'
+  - - 4
+    - '..........4.....'
+  - - 3
+    - '....4...........'
+  - - 0
+    - 5...............
+    - true
+- id: 317
+  name: Strum 01
+  category: 1
+  time: 4/4
+  instrument: 25
+  transpose: -12
+  patterns:
+  - - 0
+    - 5...............................
+    - true
+  - - 3
+    - 4...............................
+  - - 4
+    - 5...............................
+  - - 5
+    - 4...............................
+  - - 6
+    - 5...............................
+- id: 319
+  name: Strum 02
+  category: 1
+  time: 4/4
+  instrument: 25
+  transpose: -12
+  patterns:
+  - - 0
+    - 5...............
+    - true
+  - - 3
+    - 3...............
+  - - 4
+    - 5.......5.......
+  - - 5
+    - 3.......3.......
+  - - 6
+    - 4.......4.......
+- id: 321
+  name: Strum 03
+  category: 1
+  time: 4/4
+  instrument: 25
+  transpose: -12
+  volume: 1
+  patterns:
+  - - 0
+    - 4...............
+    - true
+  - - 3
+    - 2...3.......3...
+  - - 4
+    - 2...3.1...1.4.1.
+  - - 5
+    - 3...3.2...2.3.2.
+  - - 6
+    - 2...1.4...3.1.3.
+- id: 323
+  name: Strum 04
+  category: 1
+  time: 4/4
+  instrument: 25
+  transpose: -12
+  patterns:
+  - - 0
+    - 5...............
+    - true
+  - - 3
+    - 4...3.......4.3.
+  - - 4
+    - 5...3.5.....4.3.
+  - - 5
+    - 4...2.5.....5.23
+  - - 6
+    - 4.....5.....5..3
+  - - 7
+    - 4.....4.....3..3
+- id: 325
+  name: Strum 05
+  category: 1
+  time: 4/4
+  instrument: 25
+  transpose: -12
+  volume: 2
+  patterns:
+  - - 0
+    - 5.......0.......
+    - true
+  - - 3
+    - 0.....3.0...3...
+  - - 4
+    - 0.....3.0...3...
+  - - 5
+    - 0.....3.0...3...
+  - - 6
+    - 0.....3.0...3...
+- id: 327
+  name: Strum 06
+  category: 1
+  time: 4/4
+  instrument: 25
+  transpose: -12
+  volume: 1
+  patterns:
+  - - 0
+    - 4.13014.13014.12
+    - true
+  - - 3
+    - 3.13014.13014.02
+  - - 4
+    - 2.14013.14013.13
+  - - 5
+    - 3.13.14.13.14.22
+  - - 6
+    - 4.14.13.14.13.23
+- id: 329
+  name: Strum 07
+  category: 1
+  time: 4/4
+  instrument: 25
+  transpose: -12
+  delta: 4
+  volume: 1
+  continous: true
+  patterns:
+  - - 0
+    - 5.0...4.0...3.0...4.0...
+    - true
+  - - 3
+    - 4.0...3.0...4.0...3.0...
+  - - 4
+    - 3.0...4.0...3.0...4.0...
+  - - 5
+    - 4.0...3.0...3.0...3.0...
+  - - 6
+    - 4.0...3.0...4.0...4.0...
+- id: 331
+  name: Strum 08
+  category: 1
+  time: 4/4
+  instrument: 25
+  transpose: -12
+  volume: 1
+  invert: false
+  continous: true
+  patterns:
+  - - 0
+    - 5...0...........
+    - true
+  - - 2
+    - 0.......5...0...
+  - - 3
+    - 0...40......30..
+  - - 4
+    - 0...30......40..
+  - - 5
+    - 0...40......30..
+  - - 6
+    - 0...30......40..
+- id: 333
+  name: Strum 09
+  category: 1
+  time: 4/4
+  instrument: 25
+  transpose: -12
+  invert: false
+  patterns:
+  - - 0
+    - 6.......0.......
+  - - 2
+    - 0.......6.......
+  - - 3
+    - 0.4.0.4.0.4.0.4.
+  - - 4
+    - 0...4.......5...
+  - - 5
+    - 0...5.......4...
+  - - 6
+    - 0...6.......6...
+- id: 335
+  name: Strum 10
+  category: 1
+  time: 4/4
+  instrument: 25
+  transpose: -12
+  volume: 1
+  type: guitar
+  patterns:
+  - - 0
+    - 5.3.0.2.5.3.0.3.
+    - true
+  - - 3
+    - 4.3.0.3.4.3.0.2.
+  - - 4
+    - 3.3.0.3.3.4.0.3.
+  - - 5
+    - 2.4.0.4.3.4.0.4.
+  - - 6
+    - 3.5.0.5.2.5.0.5.
+- id: 337
+  name: Strum 11
+  category: 1
+  time: 4/4
+  instrument: 25
+  transpose: -12
+  patterns:
+  - - 0
+    - 5...4.0...4.0.4...........4.0...
+    - true
+  - - 3
+    - 6...4.0...4.0.5...........4.0...
+  - - 4
+    - 5...6.0...5.0.6...........6.0...
+  - - 5
+    - 4...5.0...6.0.4...........5.0...
+  - - 6
+    - 4...6.0...6.0.5...........6.0...
+- id: 339
+  name: Strum 12
+  category: 1
+  time: 4/4
+  instrument: 25
+  transpose: -12
+  patterns:
+  - - 0
+    - 6.....4...5...5.
+    - true
+  - - 3
+    - 5.0.6.0.4.0.5.0.
+  - - 4
+    - 4.0.4.0.5.0.4.0.
+  - - 5
+    - 5.0.5.0.4.0.6.0.
+  - - 6
+    - 4.0.4.0.5.0.5.0.
+- id: 341
+  name: Strum 13 - 3/4
+  category: 1
+  time: 4/4
+  instrument: 25
+  transpose: -12
+  patterns:
+  - - 0
+    - 5...........
+    - true
+  - - 3
+    - 4...3...4...
+  - - 4
+    - 3...4...3...
+  - - 5
+    - 4...3.1.4.2.
+  - - 6
+    - 3...4.2.3.1.
+- id: 343
+  name: Strum 14 - 3/4
+  category: 1
+  time: 4/4
+  instrument: 25
+  transpose: -12
+  patterns:
+  - - 0
+    - 5...........
+    - true
+  - - 3
+    - 4...3...4...
+  - - 4
+    - 3...4...3...
+  - - 5
+    - 4...321.4.2.
+  - - 6
+    - 3...412.3.2.
+- id: 345
+  name: Strum 15
+  category: 1
+  time: 4/4
+  instrument: 25
+  transpose: -12
+  patterns:
+  - - 0
+    - 5...............
+    - true
+  - - 3
+    - 4...3...5...4...
+  - - 4
+    - 5...4...3...3...
+  - - 5
+    - 4...3...4...4...
+  - - 6
+    - 5...4...3...3...
+  - - 7
+    - 4...4...4...5...
+- id: 347
+  name: Strum 16
+  category: 1
+  time: 4/4
+  instrument: 25
+  transpose: -12
+  patterns:
+  - - 0
+    - 6...............
+    - true
+  - - 3
+    - 5.3.4.3.
+  - - 4
+    - 5.2.5.1.
+  - - 5
+    - 4.1.4.2.
+  - - 6
+    - 3.2.2.1.
+  - - 7
+    - 3.1.3.2.
+- id: 349
+  name: Strum 17
+  category: 1
+  time: 4/4
+  instrument: 25
+  transpose: -12
+  patterns:
+  - - 0
+    - 6...............
+    - true
+  - - 3
+    - 4.3.4.3.
+  - - 4
+    - 5.2.5.1.
+  - - 5
+    - 4.334.23
+  - - 6
+    - 3.223.11
+  - - 7
+    - 3.312.22
+- id: 351
+  name: Strum 18
+  category: 1
+  time: 4/4
+  instrument: 25
+  transpose: -12
+  patterns:
+  - - 0
+    - 4...............
+    - true
+  - - 3
+    - 4...3..242..4.12
+  - - 4
+    - 3...4...3...3...
+  - - 5
+    - 4...3...42..3..3
+  - - 6
+    - 3...3..2312.4.32
+  - - 7
+    - 3...4..1231.4.11
+- id: 353
+  name: Strum 19
+  category: 1
+  time: 4/4
+  instrument: 25
+  transpose: -12
+  patterns:
+  - - 0
+    - 4..............0
+    - true
+  - - 3
+    - 4...3...4...4...
+  - - 4
+    - 3...4...3...3...
+  - - 5
+    - 4...3...3.2.4.1.
+  - - 6
+    - 3...2...4.2.3.2.
+  - - 7
+    - 2...3...2.1.3.2.
+- id: 355
+  name: Strum 20
+  category: 1
+  time: 4/4
+  instrument: 25
+  transpose: -12
+  volume: 1
+  patterns:
+  - - 0
+    - 4...............
+    - true
+  - - 3
+    - 31.141.131.141.1
+  - - 4
+    - 41.141.141.141.1
+  - - 5
+    - 42.232.242.323.2
+  - - 6
+    - 33.322.232.232.3
+  - - 7
+    - 32.232.323.232.2
+- id: 397
+  name: Strum 21
+  category: 1
+  time: 4/4
+  instrument: 25
+  transpose: -12
+  delta: 3
+  patterns:
+  - - 0
+    - '....7050....60......60......60..'
+    - true
+  - - 3
+    - '....7050....60......60......60..'
+  - - 4
+    - '....7050....60......60......60..'
+  - - 5
+    - '....7050....60......60......60..'
+  - - 6
+    - '....7050....60......60......60..'
+- id: 206
+  name: Picked 01
+  category: 2
+  time: 4/4
+  instrument: 27
+  transpose: -12
+  volume: 1
+  continous: true
+  patterns:
+  - - 0
+    - 4...............4...............
+    - true
+  - - 3
+    - 0.2...3...............4.........
+  - - 4
+    - 0...3...4...4.......4.......3...
+  - - 5
+    - 0.........5...5...5.......4...4.
+  - - 6
+    - 4...............5.......5.......
+  - - 7
+    - 0.....................5.........
+- id: 208
+  name: Picked 02
+  category: 2
+  time: 4/4
+  instrument: 27
+  transpose: -12
+  patterns:
+  - - 0
+    - 5...............
+    - true
+  - - 3
+    - '......4.....3...'
+  - - 4
+    - '....4.....4.....'
+  - - 5
+    - ..5.....5.....5.
+  - - 6
+    - 6.....6.....6...
+- id: 210
+  name: Picked 03
+  category: 2
+  time: 4/4
+  instrument: 27
+  transpose: -12
+  volume: 1
+  sustain: true
+  patterns:
+  - - 0
+    - 5...............
+    - true
+  - - 3
+    - 3.....2.....5...
+  - - 4
+    - 0.4.......4...4.
+  - - 5
+    - 0...5...5.......
+  - - 6
+    - 2.....6.....2...
+- id: 212
+  name: Picked 04
+  category: 2
+  time: 4/4
+  instrument: 26
+  sustain: true
+  patterns:
+  - - 0
+    - 6...............
+    - true
+  - - 2
+    - 4...2.......3...
+  - - 3
+    - 0.2...5.....4...
+  - - 4
+    - 3....4.2..5...5.
+  - - 5
+    - 0..5....6.......
+- id: 214
+  name: Picked 05
+  category: 2
+  time: 4/4
+  instrument: 26
+  transpose: -12
+  invert: false
+  patterns:
+  - - 0
+    - 6...............
+    - true
+  - - 3
+    - 0.6.......5.....
+  - - 4
+    - 0...5.......6...
+  - - 5
+    - 0.....5.......5.
+  - - 6
+    - 0.......6.......
+- id: 216
+  name: Picked 06
+  category: 2
+  time: 4/4
+  instrument: 27
+  transpose: -12
+  volume: 2
+  patterns:
+  - - 0
+    - 3...............
+    - true
+  - - 3
+    - 0.2.......2.....
+  - - 4
+    - 0...3...3...3...
+  - - 5
+    - 0.....4.......4.
+  - - 6
+    - 3.........3.....
+- id: 218
+  name: Picked 07
+  category: 2
+  time: 4/4
+  instrument: 27
+  transpose: -12
+  delta: 8
+  volume: 1
+  patterns:
+  - - 0
+    - 4...........
+    - true
+  - - 3
+    - 3.....2.....
+  - - 4
+    - 0.4.......5.
+  - - 5
+    - 0...5...4...
+  - - 6
+    - 0.....5.....
+- id: 221
+  name: Picked 08 - 6/8
+  category: 2
+  time: 4/4
+  instrument: 27
+  transpose: -12
+  volume: 1
+  sustain: true
+  patterns:
+  - - 0
+    - 3...........
+    - true
+  - - 2
+    - 2...........
+  - - 3
+    - 0.3.......4.
+  - - 4
+    - 0...4...3...
+  - - 5
+    - 0.....5.....
+- id: 222
+  name: Picked 09
+  category: 2
+  time: 4/4
+  instrument: 27
+  transpose: -12
+  volume: 1
+  invert: false
+  patterns:
+  - - 0
+    - 4...............
+    - true
+  - - 2
+    - 0.4...2.....4...
+  - - 3
+    - 0...4...3.....4.
+  - - 4
+    - 0.........4.....
+  - - 5
+    - 0.....5.........
+- id: 224
+  name: Picked 10
+  category: 2
+  time: 4/4
+  instrument: 27
+  transpose: -12
+  patterns:
+  - - 6
+    - 0.......5.......
+  - - 5
+    - 0...3.....4...3.
+  - - 4
+    - 0.4...4.....4...
+  - - 3
+    - 3.......3.......
+  - - 0
+    - 5...............
+    - true
+- id: 226
+  name: Picked 11
+  category: 2
+  time: 4/4
+  instrument: 26
+  transpose: -12
+  patterns:
+  - - 6
+    - 0....5......
+  - - 5
+    - 0..4...4....
+  - - 4
+    - 0.3......3..
+  - - 3
+    - 4..........5
+  - - 0
+    - 5...........
+    - true
+- id: 228
+  name: Picked 12
+  category: 2
+  time: 4/4
+  instrument: 27
+  transpose: -12
+  patterns:
+  - - 7
+    - 0.......6.......
+  - - 6
+    - 0.6...........6.
+  - - 5
+    - 0...5.....5.....
+  - - 4
+    - 0.....4.....4...
+  - - 3
+    - 0.......3.....3.
+  - - 0
+    - 6...............
+    - true
+- id: 230
+  name: Picked 13
+  category: 2
+  time: 4/4
+  instrument: 27
+  transpose: -12
+  patterns:
+  - - 7
+    - 0.......5.......
+  - - 6
+    - 5....4.......4..
+  - - 5
+    - 0..5.......5....
+  - - 4
+    - 0.4...5...4...5.
+  - - 3
+    - 0...5...3...5...
+  - - 0
+    - 6...............
+    - true
+- id: 232
+  name: Picked 14
+  category: 2
+  time: 4/4
+  instrument: 27
+  transpose: -12
+  patterns:
+  - - 7
+    - '.......5.4......'
+  - - 6
+    - 0..5.......5...4
+  - - 5
+    - 0.4...5...5...5.
+  - - 4
+    - 03...4...4...4..
+  - - 3
+    - 0...4...3...4...
+  - - 0
+    - 5...............
+    - true
+- id: 234
+  name: Picked 15
+  category: 2
+  time: 4/4
+  instrument: 27
+  transpose: -12
+  patterns:
+  - - 7
+    - 0.....6.........
+  - - 6
+    - 0.....3.......6.
+  - - 5
+    - 0.5.......5.....
+  - - 4
+    - 0...4.......5.4.
+  - - 0
+    - 5...............
+    - true
+- id: 236
+  name: Picked 16
+  category: 2
+  time: 4/4
+  instrument: 27
+  transpose: -12
+  patterns:
+  - - 6
+    - 0......5.5......
+  - - 5
+    - 0....5....4.5...
+  - - 4
+    - 0.5...5....3.4..
+  - - 3
+    - 4.............3.
+  - - 2
+    - 0..............3
+  - - 0
+    - 3...5...3...5...
+    - true
+- id: 238
+  name: Picked 17
+  category: 2
+  time: 4/4
+  instrument: 27
+  transpose: -12
+  patterns:
+  - - 6
+    - 0...........5...
+  - - 5
+    - 0.....5.........
+  - - 4
+    - 0.........4.....
+  - - 3
+    - 0...4...........
+  - - 0
+    - 5...............
+    - true
+- id: 240
+  name: Picked 18
+  category: 2
+  time: 4/4
+  instrument: 27
+  transpose: -12
+  volume: 1
+  patterns:
+  - - 0
+    - 4.......3.......
+    - true
+  - - 3
+    - 0.3...3...3...3.
+  - - 4
+    - 0..4.......4....
+  - - 5
+    - 0....5.......5..
+  - - 6
+    - 4.......4.......
+- id: 242
+  name: Picked 19
+  category: 2
+  time: 4/4
+  instrument: 27
+  transpose: -12
+  sustain: true
+  patterns:
+  - - 0
+    - 5...............
+    - true
+  - - 3
+    - 0.3.........4...
+  - - 4
+    - 0..4......3...5.
+  - - 5
+    - 0...5...4.......
+  - - 6
+    - 0.....5.........
+- id: 316
+  name: Strum 01
+  category: 2
+  time: 4/4
+  instrument: 27
+  transpose: -12
+  patterns:
+  - - 0
+    - 6...............................
+    - true
+  - - 3
+    - 5...............................
+  - - 4
+    - 6...............................
+  - - 5
+    - 5...............................
+  - - 6
+    - 6...............................
+- id: 318
+  name: Strum 02
+  category: 2
+  time: 4/4
+  instrument: 27
+  volume: 1
+  patterns:
+  - - 0
+    - 0.4.5040....50..
+  - - 1
+    - 0.4.5040....40..
+  - - 2
+    - 0.4.5050....50..
+  - - 3
+    - 0.4.5050....40..
+- id: 320
+  name: Strum 03
+  category: 2
+  time: 4/4
+  instrument: 27
+  transpose: -12
+  patterns:
+  - - 0
+    - 6...............
+    - true
+  - - 3
+    - 3...5.1.0.1.5.1.
+  - - 4
+    - 4...5.4...4.5.4.
+  - - 5
+    - 3...4.5...5.4.5.
+  - - 6
+    - 4...1.6...6.1.6.
+- id: 322
+  name: Strum 04
+  category: 2
+  time: 4/4
+  instrument: 27
+  patterns:
+  - - 0
+    - '016401610161'
+  - - 1
+    - '016401610161'
+  - - 2
+    - '016401610161'
+  - - 3
+    - '016401610161'
+- id: 324
+  name: Strum 05
+  category: 2
+  time: 4/4
+  instrument: 27
+  transpose: -12
+  sustain: true
+  patterns:
+  - - 2
+    - 5..5..3..3..1..1
+  - - 3
+    - 5..4..4..2..2..1
+  - - 4
+    - 6..4..3..3..1..1
+  - - 5
+    - 6..5..4..2..2..1
+- id: 326
+  name: Strum 06
+  category: 2
+  time: 4/4
+  instrument: 26
+  transpose: -12
+  patterns:
+  - - 0
+    - 6...............
+    - true
+  - - 2
+    - 5...............
+  - - 3
+    - 6...............
+  - - 4
+    - 5...............
+  - - 5
+    - 5...............
+  - - 6
+    - 6...............
+- id: 328
+  name: Strum 07
+  category: 2
+  time: 4/4
+  instrument: 26
+  continous: true
+  patterns:
+  - - 1
+    - 7.0.60..7.0.70..
+  - - 2
+    - 6.0.70..6.0.60..
+  - - 3
+    - 7.0.60..6.0.70..
+  - - 4
+    - 7.0.60..7.0.60..
+- id: 330
+  name: Strum 08
+  category: 2
+  time: 4/4
+  instrument: 26
+  leading: 14
+  continous: true
+  patterns:
+  - - 0
+    - 50..4....040..5....040....40....
+    - true
+  - - 2
+    - 60..5....050..6....050....50....
+  - - 3
+    - 60..5....050..6....050....50....
+  - - 4
+    - 50..6....060..5....060....60....
+  - - 5
+    - 50..6....060..5....060....60....
+- id: 332
+  name: Strum 09
+  category: 2
+  time: 4/4
+  instrument: 26
+  transpose: -12
+  delta: 4
+  volume: 1
+  continous: true
+  patterns:
+  - - 0
+    - 4.....................3.
+    - true
+  - - 3
+    - 4.0...3.0...3.0...4.0...
+  - - 4
+    - 3.0...3.0...3.0...2.0...
+  - - 5
+    - 3.0...2.0...2.0...3.0...
+  - - 6
+    - 4.0...3.0...4.0...3.0...
+- id: 334
+  name: Strum 10
+  category: 2
+  time: 4/4
+  instrument: 27
+  transpose: -12
+  delta: 4
+  continous: true
+  patterns:
+  - - 0
+    - 4...4.......4...4...3...
+    - true
+  - - 3
+    - '......5...4.'
+  - - 4
+    - '......4...4.'
+  - - 5
+    - '......5...4.'
+  - - 6
+    - '......4...4.'
+- id: 336
+  name: Strum 11
+  category: 2
+  time: 4/4
+  instrument: 27
+  volume: -1
+  patterns:
+  - - -12
+    - 5...............................
+    - true
+  - - 0
+    - 6...4.0...4.0.5.....5.0...4.0...
+  - - 1
+    - 5...6.0...5.0.6.....6.0...6.0...
+  - - 2
+    - 4...5.0...6.0.4.....5.0...5.0...
+  - - 3
+    - 4...6.0...6.0.5.....6.0...6.0...
+- id: 338
+  name: Strum 12
+  category: 2
+  time: 4/4
+  instrument: 27
+  transpose: -12
+  volume: 1
+  patterns:
+  - - 0
+    - 4...............
+    - true
+  - - 3
+    - 2...4.......3...
+  - - 4
+    - 2...3.1...1.4.1.
+  - - 5
+    - 3...3.2...2.3.2.
+  - - 6
+    - 2...1.4...3.1.3.
+- id: 340
+  name: Strum 13
+  category: 2
+  time: 4/4
+  instrument: 27
+  transpose: -12
+  patterns:
+  - - 0
+    - 5...............
+    - true
+  - - 3
+    - 4...3.......4.3.
+  - - 4
+    - 5...3.5.....4.3.
+  - - 5
+    - 4...2.5.....5.23
+  - - 6
+    - 4.....5.....5..3
+  - - 7
+    - 4.....4.....3..3
+- id: 342
+  name: Strum 14
+  category: 2
+  time: 4/4
+  instrument: 27
+  transpose: -12
+  patterns:
+  - - 0
+    - 5...............
+    - true
+  - - 3
+    - 5.15016.14016.14
+  - - 4
+    - 4.16015.14015.15
+  - - 5
+    - 5.15016.15026514
+  - - 6
+    - 6.16015.16055415
+- id: 344
+  name: Strum 15
+  category: 2
+  time: 4/4
+  instrument: 26
+  transpose: -12
+  delta: 4
+  volume: 1
+  continous: true
+  patterns:
+  - - 0
+    - 5.......................
+    - true
+  - - 3
+    - 4.0...3.0...4.0...3.0...
+  - - 4
+    - 3.0...4.0...3.0...4.0...
+  - - 5
+    - 4.0...3.0...3.0...3.0...
+  - - 6
+    - 4.0...3.0...4.0...4.0...
+- id: 346
+  name: Strum 16
+  category: 2
+  time: 4/4
+  instrument: 26
+  transpose: -12
+  volume: 1
+  invert: false
+  continous: true
+  patterns:
+  - - 0
+    - 5...0...........
+    - true
+  - - 2
+    - 0.......5...0...
+  - - 3
+    - 0...40......30..
+  - - 4
+    - 0...30......40..
+  - - 5
+    - 0...40......30..
+  - - 6
+    - 0...30......40..
+- id: 348
+  name: Strum 17
+  category: 2
+  time: 4/4
+  instrument: 26
+  transpose: -12
+  invert: false
+  patterns:
+  - - 0
+    - 6.......0.......
+  - - 2
+    - 0.......6.......
+  - - 3
+    - 0.4.0.4.0.4.0.4.
+  - - 4
+    - 0...4.......5...
+  - - 5
+    - 0...5.......4...
+  - - 6
+    - 0...6.......6...
+- id: 350
+  name: Strum 18
+  category: 2
+  time: 4/4
+  instrument: 26
+  transpose: -12
+  volume: 1
+  patterns:
+  - - 0
+    - 5.3.0.2.5.3.0.3.
+    - true
+  - - 3
+    - 4.3.0.3.4.3.0.2.
+  - - 4
+    - 3.3.0.3.3.4.0.3.
+  - - 5
+    - 2.4.0.4.3.4.0.4.
+  - - 6
+    - 3.5.0.5.2.5.0.5.
+- id: 352
+  name: Strum 19
+  category: 2
+  time: 4/4
+  instrument: 27
+  transpose: -12
+  delta: 4
+  patterns:
+  - - 0
+    - 4.0.3.0.....
+    - true
+  - - 3
+    - 0.....5.0.4.
+  - - 4
+    - 0.....4.0.4.
+  - - 5
+    - 0.....5.0.4.
+  - - 6
+    - 0.....4.0.4.
+- id: 354
+  name: Strum 20
+  category: 2
+  time: 4/4
+  instrument: 26
+  transpose: -12
+  patterns:
+  - - 0
+    - 6.....4...5...5.
+    - true
+  - - 3
+    - 4.0.4.0.4.0.5.0.
+  - - 4
+    - 5.0.4.0.5.0.4.0.
+  - - 5
+    - 4.0.6.0.4.0.6.0.
+  - - 6
+    - 5.0.5.0.5.0.5.0.
+- id: 356
+  name: Strum 21
+  category: 2
+  time: 4/4
+  instrument: 26
+  transpose: -12
+  patterns:
+  - - 0
+    - 5...............
+    - true
+  - - 3
+    - 5...4...5...4...
+  - - 4
+    - 5...5...4...4...
+  - - 5
+    - 4...4...4...4...
+  - - 6
+    - 4...4...4...5...
+- id: 357
+  name: Strum 22
+  category: 2
+  time: 4/4
+  instrument: 26
+  transpose: -12
+  volume: 1
+  patterns:
+  - - 6
+    - 0..4....3.......
+  - - 5
+    - 0..4....3.......
+  - - 4
+    - 0..3....4.......
+  - - 3
+    - 0..3....4.......
+  - - 0
+    - 4.....4.........
+    - true
+- id: 358
+  name: Strum 23
+  category: 2
+  time: 4/4
+  instrument: 27
+  transpose: -12
+  patterns:
+  - - 0
+    - 5...............
+    - true
+  - - 3
+    - 4...3...5...4...
+  - - 4
+    - 5...4...3...3...
+  - - 5
+    - 4...3...4...4...
+  - - 6
+    - 5...4...3...3...
+  - - 7
+    - 4...4...4...5...
+- id: 359
+  name: Strum 24
+  category: 2
+  time: 4/4
+  instrument: 27
+  transpose: -12
+  patterns:
+  - - 0
+    - 5...............
+    - true
+  - - 3
+    - 5...4..353..5.23
+  - - 4
+    - 4...5...4...4..3
+  - - 5
+    - 5...4...53..4..4
+  - - 6
+    - 4...4..3423.5.43
+  - - 7
+    - 4...5..2342.5.22
+- id: 360
+  name: Strum 25
+  category: 2
+  time: 4/4
+  instrument: 27
+  transpose: -12
+  volume: 1
+  patterns:
+  - - 0
+    - 4..............0
+    - true
+  - - 3
+    - 4...3...4...4...
+  - - 4
+    - 3...4...3...3...
+  - - 5
+    - 4...3...3.2.4.1.
+  - - 6
+    - 3...2...4.2.3.2.
+  - - 7
+    - 2...3...2.1.3.2.
+- id: 361
+  name: Strum 26
+  category: 2
+  time: 4/4
+  instrument: 26
+  transpose: -12
+  patterns:
+  - - 0
+    - 4...............
+    - true
+  - - 3
+    - 31.141.131.141.1
+  - - 4
+    - 41.141.141.141.1
+  - - 5
+    - 42.232.242.232.2
+  - - 6
+    - 32.232.232.232.2
+  - - 7
+    - 32.232.232.232.2
+- id: 362
+  name: Strum 27 - 3/4
+  category: 2
+  time: 4/4
+  instrument: 27
+  transpose: -12
+  patterns:
+  - - 0
+    - 5...........
+    - true
+  - - 3
+    - 4...3.0.4.0.
+  - - 4
+    - 3...4.0.3.0.
+  - - 5
+    - 4...3.1.4.1.
+  - - 6
+    - 3...4.1.3.1.
+- id: 363
+  name: Strum 28 - 3/4
+  category: 2
+  time: 4/4
+  instrument: 26
+  transpose: -12
+  patterns:
+  - - 0
+    - 4...........
+    - true
+  - - 3
+    - 4.0.3.0.4.0.
+  - - 4
+    - 3.0.3.0.3.0.
+  - - 5
+    - 4.0.4.0.4.0.
+  - - 6
+    - 3.0.4.0.3.0.
+- id: 379
+  name: Strum 29
+  category: 2
+  time: 4/4
+  instrument: 27
+  delta: 8
+  volume: -2
+  continous: true
+  patterns:
+  - - 0
+    - 0..70....60.
+  - - 1
+    - 0..60....70.
+  - - 2
+    - 0..60....60.
+  - - 3
+    - 0..60....60.
+- id: 405
+  name: Strum 30
+  category: 2
+  time: 4/4
+  instrument: 27
+  delta: 2
+  volume: -2
+  continous: true
+  patterns:
+  - - 0
+    - 7......0.70.....................................7..0..7.070.....................................
+  - - 1
+    - 7......0.70.....................................7.....7.070.....................................
+  - - 2
+    - 7......0.70.....................................7..070...70.....................................
+  - - 3
+    - 7......0.70.....................................7...70..........................................
+- id: 158
+  name: Muted 01
+  category: 2
+  time: 4/4
+  instrument: 28
+  transpose: -12
+  sustain: true
+  patterns:
+  - - 2
+    - '...8070.........'
+  - - 3
+    - '......8.........'
+  - - 4
+    - '.........8....8.'
+  - - 5
+    - 8...........880.
+- id: 159
+  name: Muted 02
+  category: 2
+  time: 4/4
+  instrument: 28
+  transpose: -12
+  delta: 4
+  invert: false
+  continous: true
+  patterns:
+  - - 2
+    - 7.0.5.6.0.5.6.0.5.6.0.5.
+  - - 0
+    - 7.0.5.7.0.5.5.0.5.7.0.5.
+    - true
+- id: 160
+  name: Muted 03
+  category: 2
+  time: 4/4
+  instrument: 28
+  volume: 2
+  patterns:
+  - - 0
+    - 540...540...5420
+    - true
+- id: 161
+  name: Muted 04
+  category: 2
+  time: 4/4
+  instrument: 28
+  volume: 2
+  invert: false
+  patterns:
+  - - 0
+    - ..54.4..4..4..4.
+    - true
+- id: 162
+  name: Muted 05
+  category: 2
+  time: 4/4
+  instrument: 28
+  transpose: -12
+  delta: 4
+  continous: true
+  patterns:
+  - - 0
+    - 4...4.......
+    - true
+  - - 3
+    - '......5...4.'
+  - - 4
+    - '......4...4.'
+  - - 5
+    - '......5...4.'
+  - - 6
+    - '......4...4.'
+- id: 392
+  name: Muted 06
+  category: 2
+  time: 4/4
+  instrument: 28
+  volume: 2
+  invert: false
+  patterns:
+  - - 0
+    - 34..4..3..4..3..
+    - true
+- id: 308
+  name: Stab 01
+  category: 2
+  time: 4/4
+  instrument: 27
+  continous: true
+  patterns:
+  - - 0
+    - '....50....40....'
+  - - 1
+    - '....50....50....'
+  - - 2
+    - '....50....50....'
+  - - 3
+    - '....60....60....'
+- id: 309
+  name: Stab 02
+  category: 2
+  time: 4/4
+  instrument: 27
+  continous: true
+  patterns:
+  - - 1
+    - 0...50....40..4.
+  - - 2
+    - 0...50....50..5.
+  - - 3
+    - 0...50....50..5.
+  - - 4
+    - 0...60....60..6.
+- id: 310
+  name: Stab 03
+  category: 2
+  time: 4/4
+  instrument: 26
+  continous: true
+  patterns:
+  - - 0
+    - '....50....40....'
+  - - 1
+    - '....50....50....'
+  - - 2
+    - '....50....50....'
+  - - 3
+    - '....60....60....'
+- id: 311
+  name: Stab 04
+  category: 2
+  time: 4/4
+  instrument: 26
+  continous: true
+  patterns:
+  - - 1
+    - 0...50....40..4.
+  - - 2
+    - 0...50....50..5.
+  - - 3
+    - 0...50....50..5.
+  - - 4
+    - 0...60....60..6.
+- id: 274
+  name: Simple 01
+  category: 3
+  time: 4/4
+  instrument: 33
+  transpose: -24
+  invert: false
+  type: bass
+  patterns:
+  - - 0
+    - 7...............
+    - true
+- id: 275
+  name: Simple 02
+  category: 3
+  time: 4/4
+  instrument: 33
+  transpose: -24
+  invert: false
+  type: bass
+  patterns:
+  - - 0
+    - 7.......7.......
+    - true
+- id: 276
+  name: Simple 03
+  category: 3
+  time: 4/4
+  instrument: 33
+  transpose: -24
+  volume: 2
+  invert: false
+  type: bass
+  patterns:
+  - - 0
+    - 5...4...4...4...
+    - true
+- id: 277
+  name: Simple 04
+  category: 3
+  time: 4/4
+  instrument: 33
+  transpose: -24
+  volume: 2
+  invert: false
+  type: bass
+  patterns:
+  - - 0
+    - 5.4.4.4.5.4.4.4.
+    - true
+- id: 278
+  name: Simple 05
+  category: 3
+  time: 4/4
+  instrument: 33
+  transpose: -24
+  invert: false
+  type: bass
+  patterns:
+  - - 0
+    - 7.............6.
+    - true
+- id: 279
+  name: Simple 06
+  category: 3
+  time: 4/4
+  instrument: 33
+  transpose: -24
+  volume: 2
+  invert: false
+  type: bass
+  patterns:
+  - - 0
+    - 4.....4.......4.
+    - true
+- id: 280
+  name: Simple 07
+  category: 3
+  time: 4/4
+  instrument: 33
+  transpose: -24
+  volume: 2
+  invert: false
+  type: bass
+  patterns:
+  - - 0
+    - 4.234.234.234.23
+    - true
+- id: 281
+  name: Simple 08
+  category: 3
+  time: 4/4
+  instrument: 33
+  transpose: -24
+  invert: false
+  type: bass
+  patterns:
+  - - 0
+    - 650...540...540.
+    - true
+- id: 282
+  name: Simple 09
+  category: 3
+  time: 4/4
+  instrument: 33
+  transpose: -24
+  invert: false
+  type: bass
+  patterns:
+  - - 0
+    - '76676676'
+    - true
+- id: 283
+  name: Simple 10
+  category: 3
+  time: 4/4
+  instrument: 33
+  transpose: -24
+  volume: 1
+  type: bass
+  patterns:
+  - - 0
+    - 5.4...........40
+    - true
+- id: 284
+  name: Simple 11
+  category: 3
+  time: 4/4
+  instrument: 33
+  transpose: -24
+  volume: 1
+  invert: false
+  continous: true
+  type: bass
+  patterns:
+  - - 0
+    - 5.....5.......5.
+    - true
+- id: 285
+  name: Simple 12
+  category: 3
+  time: 4/4
+  instrument: 33
+  transpose: -24
+  volume: 1
+  invert: false
+  continous: true
+  type: bass
+  patterns:
+  - - 0
+    - 5.....4.4.....4.
+    - true
+- id: 286
+  name: 'Simple 13 '
+  category: 3
+  time: 3/4
+  instrument: 33
+  transpose: -24
+  invert: false
+  type: bass
+  patterns:
+  - - 0
+    - 7.........6.
+    - true
+- id: 287
+  name: Simple 14
+  category: 3
+  time: 4/4
+  instrument: 33
+  transpose: -12
+  invert: false
+  type: bass
+  patterns:
+  - - -2
+    - 0.............6.
+    - false
+  - - 0
+    - 6.....6.....5.0.
+    - true
+- id: 390
+  name: Simple 15
+  category: 3
+  time: 4/4
+  instrument: 33
+  transpose: -24
+  invert: false
+  type: bass
+  patterns:
+  - - 0
+    - ..60.6017......1760.............
+    - true
+- id: 399
+  name: Simple 16
+  category: 3
+  time: 4/4
+  instrument: 33
+  transpose: -24
+  delta: 8
+  invert: false
+  continous: true
+  type: bass
+  patterns:
+  - - 0
+    - 7..........07...........
+    - true
+  - - -2
+    - 0..........70..........7
+- id: 82
+  name: Fifths 01
+  category: 3
+  time: 4/4
+  instrument: 33
+  transpose: -12
+  invert: false
+  type: bass
+  patterns:
+  - - 0
+    - 6....0..........
+    - true
+  - - -2
+    - '........6....0..'
+- id: 83
+  name: Fifths 02
+  category: 3
+  time: 4/4
+  instrument: 33
+  transpose: -12
+  volume: 1
+  invert: false
+  type: bass
+  patterns:
+  - - -2
+    - 0...5.0.....5.0.
+  - - 0
+    - 5.0.....5.0.....
+    - true
+- id: 84
+  name: Fifths 03
+  category: 3
+  time: 4/4
+  instrument: 33
+  transpose: -24
+  invert: false
+  type: bass
+  patterns:
+  - - 0
+    - 6.....0.......6.
+    - true
+  - - 2
+    - 0.....6.6.....0.
+- id: 85
+  name: Fifths 04
+  category: 3
+  time: 4/4
+  instrument: 33
+  transpose: -24
+  volume: 2
+  invert: false
+  type: bass
+  patterns:
+  - - 2
+    - 0.....4.....0...
+    - false
+  - - 0
+    - 5.....0.....5...
+    - true
+- id: 86
+  name: Fifths 05
+  category: 3
+  time: 4/4
+  instrument: 33
+  transpose: -24
+  volume: 1
+  invert: false
+  type: bass
+  patterns:
+  - - 0
+    - 5.....3.0.......
+    - true
+  - - 2
+    - 0.......5.....3.
+    - false
+- id: 87
+  name: Fifths 06
+  category: 3
+  time: 4/4
+  instrument: 33
+  transpose: -24
+  invert: false
+  type: bass
+  patterns:
+  - - 0
+    - 7.....0.........
+    - true
+  - - 2
+    - 0.....7.0...7...
+- id: 88
+  name: Fifths 07
+  category: 3
+  time: 4/4
+  instrument: 33
+  transpose: -24
+  volume: 1
+  invert: false
+  type: bass
+  patterns:
+  - - 2
+    - 0.......5...0...
+  - - 0
+    - 5...0.5.0...5...
+    - true
+- id: 89
+  name: Fifths 08
+  category: 3
+  time: 4/4
+  instrument: 33
+  transpose: -24
+  volume: 1
+  invert: false
+  type: bass
+  patterns:
+  - - 0
+    - 5...0.5.0.......................
+    - true
+  - - 2
+    - 0.......5...0.5.0.......5...0.5.
+    - false
+  - - 12
+    - '................5...0.5.0.......'
+    - true
+- id: 90
+  name: Fifths 09
+  category: 3
+  time: 4/4
+  instrument: 33
+  transpose: -24
+  invert: false
+  type: bass
+  patterns:
+  - - 0
+    - 7.0.635.0.6.5.0.
+    - true
+  - - 2
+    - 0.......6.0...5.
+    - false
+- id: 381
+  name: Fifths 10
+  category: 3
+  time: 4/4
+  instrument: 33
+  transpose: -12
+  invert: false
+  continous: true
+  type: bass
+  patterns:
+  - - 0
+    - 7.....607.....0.
+    - true
+  - - -2
+    - 0.............7.
+- id: 426
+  name: Fifths 11 - 3/4
+  category: 3
+  time: 3/4
+  instrument: 33
+  transpose: -24
+  delta: 8
+  invert: false
+  type: bass
+  patterns:
+  - - 0
+    - 7.....0..0.....6..
+    - true
+  - - 2
+    - 0........7.....0..
+- id: 163
+  name: Octave 01
+  category: 3
+  time: 4/4
+  instrument: 33
+  transpose: -24
+  volume: 3
+  invert: false
+  continous: true
+  type: bass
+  patterns:
+  - - 0
+    - 5.......0.......
+    - false
+  - - 12
+    - 0.......4.......
+    - true
+- id: 164
+  name: Octave 02
+  category: 3
+  time: 4/4
+  instrument: 33
+  transpose: -12
+  invert: false
+  continous: true
+  type: bass
+  patterns:
+  - - -12
+    - 7...6...0.......
+    - true
+  - - 0
+    - 0.......6...6...
+    - false
+- id: 165
+  name: Octave 03
+  category: 3
+  time: 4/4
+  instrument: 33
+  transpose: -12
+  invert: false
+  type: bass
+  patterns:
+  - - -12
+    - 7.6.0...
+    - true
+  - - 0
+    - 0...7.6.
+    - false
+- id: 166
+  name: Octave 04
+  category: 3
+  time: 4/4
+  instrument: 33
+  transpose: -12
+  invert: false
+  type: bass
+  patterns:
+  - - -12
+    - 7.0..7.7
+    - true
+  - - 0
+    - ..7070..
+    - false
+- id: 167
+  name: Octave 05
+  category: 3
+  time: 4/4
+  instrument: 33
+  transpose: -12
+  volume: 1
+  invert: false
+  type: bass
+  patterns:
+  - - -12
+    - 5.....0.....5.0.
+    - true
+  - - 0
+    - 0.....5.....0.5.
+    - false
+- id: 168
+  name: Octave 06
+  category: 3
+  time: 4/4
+  instrument: 33
+  transpose: -12
+  volume: 3
+  invert: false
+  type: bass
+  patterns:
+  - - -12
+    - 4.23.20.....3.02
+    - true
+  - - 0
+    - '......3..2..0.20'
+    - false
+- id: 169
+  name: Octave 07
+  category: 3
+  time: 4/4
+  instrument: 33
+  transpose: -12
+  volume: 2
+  invert: false
+  type: bass
+  patterns:
+  - - -12
+    - 5.....0..5..0.50
+    - true
+  - - 0
+    - 0.....5..0..5..5
+    - false
+- id: 170
+  name: Octave 08
+  category: 3
+  time: 4/4
+  instrument: 33
+  transpose: -12
+  volume: 1
+  invert: false
+  type: bass
+  patterns:
+  - - -12
+    - 5.....0.........
+    - true
+  - - 0
+    - 0.....5.........
+    - false
+- id: 171
+  name: Octave 09
+  category: 3
+  time: 4/4
+  instrument: 33
+  transpose: -12
+  volume: 2
+  invert: false
+  patterns:
+  - - -12
+    - 5.....0.........
+    - true
+  - - 0
+    - 0.....5.....5...
+    - false
+- id: 266
+  name: Shuffle 01
+  category: 3
+  time: 4/4
+  instrument: 33
+  transpose: -24
+  delta: 4
+  invert: false
+  continous: true
+  type: bass
+  patterns:
+  - - 0
+    - 7...0.7...4.7.4.0.7...4.
+    - true
+- id: 269
+  name: Shuffle 02
+  category: 3
+  time: 4/4
+  instrument: 33
+  transpose: -24
+  delta: 4
+  invert: false
+  continous: true
+  type: bass
+  patterns:
+  - - 0
+    - 6...6.6...6.
+    - true
+- id: 288
+  name: Slap 01
+  category: 3
+  time: 4/4
+  instrument: 36
+  transpose: -24
+  volume: 1
+  invert: false
+  type: bass
+  patterns:
+  - - -2
+    - '...........30...'
+    - false
+  - - 0
+    - 540...540...540.
+    - true
+- id: 289
+  name: Slap 02
+  category: 3
+  time: 4/4
+  instrument: 36
+  transpose: -12
+  invert: false
+  type: bass
+  patterns:
+  - - -14
+    - '..............50'
+    - true
+  - - -13
+    - 0..............5
+    - true
+  - - -12
+    - 750.............
+    - true
+  - - 0
+    - '......670.......'
+    - false
+- id: 290
+  name: Slap 03
+  category: 3
+  time: 4/4
+  instrument: 36
+  transpose: -12
+  invert: false
+  continous: true
+  type: bass
+  patterns:
+  - - -12
+    - 7.0......07.070.
+    - true
+  - - 0
+    - 0...........70.7
+    - false
+- id: 291
+  name: Slap 04
+  category: 3
+  time: 4/4
+  instrument: 36
+  transpose: -12
+  invert: false
+  type: bass
+  patterns:
+  - - -12
+    - 7.0.....
+    - true
+  - - 0
+    - ..70..60
+    - false
+- id: 292
+  name: Slap 05
+  category: 3
+  time: 4/4
+  instrument: 36
+  transpose: -12
+  volume: 2
+  invert: false
+  continous: true
+  type: bass
+  patterns:
+  - - -12
+    - 50..50..50..5303
+    - true
+  - - 0
+    - 0.50..50..50..50
+    - false
+- id: 293
+  name: Slap 06
+  category: 3
+  time: 4/4
+  instrument: 36
+  transpose: -12
+  invert: false
+  type: bass
+  patterns:
+  - - -12
+    - 750..7.0
+    - true
+  - - 0
+    - 0.7070.7
+    - false
+- id: 294
+  name: Slap 07
+  category: 3
+  time: 4/4
+  instrument: 36
+  transpose: -12
+  volume: 2
+  invert: false
+  continous: true
+  type: bass
+  patterns:
+  - - -12
+    - 530.530.530.530.
+    - true
+  - - 0
+    - 0.530.530.530.53
+    - false
+- id: 295
+  name: Slap 08
+  category: 3
+  time: 4/4
+  instrument: 36
+  transpose: -24
+  volume: 2
+  invert: false
+  continous: true
+  type: bass
+  patterns:
+  - - 0
+    - 5.030304.0......
+    - true
+  - - 2
+    - 0...50..........
+    - false
+  - - 12
+    - 0.....40........
+    - true
+- id: 410
+  name: Slap 09
+  category: 3
+  time: 4/4
+  instrument: 36
+  transpose: -24
+  invert: false
+  continous: true
+  type: bass
+  patterns:
+  - - 0
+    - 70.....670......70.....6760.....
+    - true
+- id: 417
+  name: Slap 10
+  category: 3
+  time: 4/4
+  instrument: 36
+  transpose: -24
+  invert: false
+  continous: true
+  type: bass
+  patterns:
+  - - 0
+    - 70.60...........
+    - true
+  - - 12
+    - ..70............
+    - true
+- id: 406
+  name: Slap 11
+  category: 3
+  time: 4/4
+  instrument: 36
+  transpose: -12
+  delta: 4
+  invert: false
+  continous: true
+  type: bass
+  patterns:
+  - - 1
+    - '.......................................70....7.0'
+  - - 0
+    - 7...70..............70..7...70........70........
+    - true
+  - - -2
+    - '.....................7..0................75..0..'
+- id: 419
+  name: Slap 12
+  category: 3
+  time: 4/4
+  instrument: 36
+  transpose: -24
+  invert: false
+  continous: true
+  type: bass
+  patterns:
+  - - 0
+    - 7.0...........7.
+    - true
+- id: 130
+  name: Line 01
+  category: 3
+  time: 4/4
+  instrument: 33
+  transpose: -24
+  invert: false
+  continous: true
+  type: bass
+  patterns:
+  - - 2
+    - 0...6...0.......................
+    - true
+  - - 1
+    - 0.......6...0...............6...
+    - false
+  - - 2
+    - 0...........6...0.......6...0...
+    - false
+  - - 3
+    - 0...................6...0.......
+    - false
+  - - 12
+    - 6...0...........5...0...........
+    - true
+- id: 131
+  name: Line 02
+  category: 3
+  time: 4/4
+  instrument: 33
+  transpose: -24
+  invert: false
+  type: bass
+  patterns:
+  - - 0
+    - 7.5.0...........
+    - true
+  - - 2
+    - '....7.0.....4.0.'
+    - false
+  - - 12
+    - 0.....5.0.....4.
+    - true
+- id: 132
+  name: Line 03
+  category: 3
+  time: 4/4
+  instrument: 33
+  transpose: -24
+  volume: 1
+  invert: false
+  type: bass
+  patterns:
+  - - 0
+    - 5.40..430...40..
+    - true
+  - - 1
+    - '........5040..40'
+    - false
+- id: 133
+  name: Line 04
+  category: 3
+  time: 4/4
+  instrument: 33
+  transpose: -12
+  delta: 12
+  invert: false
+  type: bass
+  patterns:
+  - - -1
+    - 0.5.0...........
+    - false
+  - - -7
+    - 0...5.0.........
+    - true
+  - - -6
+    - 0.....5.0.......
+    - true
+  - - -2
+    - 0.......5.0.....
+    - false
+  - - -3
+    - 0.........5.0...
+    - true
+  - - -2
+    - 0...........5.0.
+    - true
+  - - -1
+    - 0.............5.
+    - true
+  - - 0
+    - 5.0.............
+    - true
+- id: 134
+  name: Line 05
+  category: 3
+  time: 4/4
+  instrument: 33
+  transpose: -12
+  invert: false
+  type: bass
+  patterns:
+  - - -1
+    - 0.5.0...........
+    - false
+  - - -7
+    - 0...5.0.........
+    - true
+  - - -6
+    - 0.....5.0.......
+    - true
+  - - -2
+    - 0.......5.0.....
+    - false
+  - - -3
+    - 0.........5.0...
+    - true
+  - - -2
+    - 0...........5.0.
+    - true
+  - - -1
+    - 0.............5.
+    - true
+  - - 0
+    - 5.0.............
+    - true
+- id: 135
+  name: Line 06
+  category: 3
+  time: 4/4
+  instrument: 33
+  transpose: -24
+  invert: false
+  type: bass
+  patterns:
+  - - 0
+    - 85850.8.0.....85
+    - true
+  - - 2
+    - 0...8.0.........
+    - false
+- id: 136
+  name: Line 07
+  category: 3
+  time: 4/4
+  instrument: 33
+  transpose: -12
+  volume: 2
+  invert: false
+  type: bass
+  patterns:
+  - - -12
+    - 0.......4.4.0.40
+    - true
+  - - -1
+    - 0...........4.03
+    - false
+  - - -2
+    - 0...............
+    - false
+  - - 0
+    - 5.0...540.......
+    - true
+- id: 137
+  name: Line 08
+  category: 3
+  time: 4/4
+  instrument: 33
+  transpose: -24
+  volume: 1
+  invert: false
+  type: bass
+  patterns:
+  - - 0
+    - 540.040.......50
+    - true
+  - - 2
+    - 0.....5.0......4
+  - - 4
+    - '........40......'
+- id: 138
+  name: Line 09
+  category: 3
+  time: 4/4
+  instrument: 33
+  transpose: -12
+  invert: false
+  continous: true
+  type: bass
+  patterns:
+  - - 0
+    - 60.6060.60......
+    - true
+  - - -2
+    - '......60........'
+    - true
+- id: 139
+  name: Line 10
+  category: 3
+  time: 4/4
+  instrument: 33
+  transpose: -24
+  volume: 2
+  invert: false
+  continous: true
+  type: bass
+  patterns:
+  - - 3
+    - '..........5.0...........5.0.....'
+  - - 2
+    - '......5.0...................5.0.'
+  - - 1
+    - '....5.0...........5.0...........'
+  - - 0
+    - 5.0...........5.0.....5.0.......
+- id: 140
+  name: Line 11
+  category: 3
+  time: 4/4
+  instrument: 33
+  transpose: -12
+  invert: false
+  type: bass
+  patterns:
+  - - 0
+    - 7..0..6.0.......
+  - - -2
+    - 0.......7.6.0...
+  - - -1
+    - 0...........7...
+- id: 385
+  name: Line 12
+  category: 3
+  time: 4/4
+  instrument: 33
+  transpose: -24
+  delta: 12
+  invert: false
+  continous: true
+  type: bass
+  patterns:
+  - - 12
+    - 7.0.....7.0.....
+    - true
+  - - 9
+    - '......6.0.6.0...'
+    - true
+  - - 2
+    - '....7.0.....7.0.'
+  - - 1
+    - 0.6.0.........6.
+- id: 396
+  name: Line 13
+  category: 3
+  time: 4/4
+  instrument: 33
+  transpose: -24
+  invert: false
+  continous: true
+  type: bass
+  patterns:
+  - - 2
+    - '......70......70'
+  - - 1
+    - '....70......70..'
+  - - 0
+    - 7.070...7.070...
+    - true
+- id: 378
+  name: Line 14
+  category: 3
+  time: 4/4
+  instrument: 33
+  transpose: -12
+  delta: 8
+  invert: false
+  continous: true
+  type: bass
+  patterns:
+  - - 1
+    - '..................7.0...'
+  - - 0
+    - 7.67.67.70.70.67.60.70..
+  - - -1
+    - 0......................7
+  - - -2
+    - '.........8.0.........7.0'
+- id: 296
+  name: Soft 01
+  category: 4
+  time: 4/4
+  instrument: 120
+  type: drums
+  patterns:
+  - - 51
+    - 5...4...5...4...
+  - - 37
+    - '........4.......'
+  - - 36
+    - 5...............
+- id: 297
+  name: Soft 02
+  category: 4
+  time: 4/4
+  instrument: 120
+  volume: 2
+  type: drums
+  patterns:
+  - - 44
+    - 4.234.234.234.23
+- id: 298
+  name: Soft 03
+  category: 4
+  time: 4/4
+  instrument: 120
+  volume: 1
+  type: drums
+  patterns:
+  - - 59
+    - 5...4...4...4...
+  - - 37
+    - '........3.......'
+  - - 35
+    - 4.....3.......4.
+- id: 299
+  name: Soft 04
+  category: 4
+  time: 4/4
+  instrument: 120
+  volume: 1
+  type: drums
+  patterns:
+  - - 51
+    - 3.121.3.1.2.3.1.
+  - - 37
+    - '....2.....2.....'
+  - - 36
+    - 4.............3.
+- id: 300
+  name: Soft 05
+  category: 4
+  time: 4/4
+  instrument: 120
+  volume: 1
+  type: drums
+  patterns:
+  - - 51
+    - 5...5.3.5.1.5.3.
+    - false
+  - - 44
+    - '....7.......7...'
+    - false
+  - - 37
+    - '................'
+    - false
+  - - 35
+    - 4.............2.
+    - false
+- id: 301
+  name: Soft 06
+  category: 4
+  time: 4/4
+  instrument: 120
+  type: drums
+  patterns:
+  - - 70
+    - '7353637353637353'
+  - - 37
+    - '....6...4...4...'
+  - - 35
+    - 6..........4....
+- id: 302
+  name: Soft 07
+  category: 4
+  time: 4/4
+  instrument: 120
+  type: drums
+  patterns:
+  - - 51
+    - 4...3...3...3...
+  - - 37
+    - '........3.......'
+  - - 35
+    - 5.4...........3.
+- id: 303
+  name: Soft 08
+  category: 4
+  time: 4/4
+  instrument: 120
+  type: drums
+  patterns:
+  - - 59
+    - 4.3.324.323.4.32
+  - - 37
+    - '....3.......3...'
+  - - 35
+    - 5.............4.
+- id: 304
+  name: Soft 09
+  category: 4
+  time: 4/4
+  instrument: 120
+  volume: 1
+  type: drums
+  patterns:
+  - - 44
+    - '......4.......4.......4.......4.'
+  - - 42
+    - 5.3.4.4.5.3.4.4.5.3.4.4.5.3.4.4.
+  - - 37
+    - '........5.....4.........5.....4.'
+  - - 36
+    - '......5...............5.........'
+- id: 305
+  name: Soft 10
+  category: 4
+  time: 4/4
+  instrument: 120
+  type: drums
+  patterns:
+  - - 44
+    - 6.4.6.4.6.4.6.4.6.4.6.4.6.4.6.4.
+  - - 37
+    - 4.....4.....4.......4.....4.....
+  - - 35
+    - 5.......5.......5.....4.5.......
+- id: 306
+  name: Soft 11 - 3/4
+  category: 4
+  time: 3/4
+  instrument: 120
+  type: drums
+  patterns:
+  - - 42
+    - 5.4.5.4.5.4.
+  - - 37
+    - '....3...3...'
+  - - 36
+    - 4...........4.........4.
+- id: 307
+  name: Soft 12 - 6/8
+  category: 4
+  time: 6/8
+  instrument: 120
+  volume: 1
+  type: drums
+  patterns:
+  - - 42
+    - 4.3.2.4.3.2.
+  - - 37
+    - '......4.....'
+  - - 36
+    - 4...........3.........3.
+- id: 377
+  name: Soft 13
+  category: 4
+  time: 4/4
+  instrument: 120
+  delta: 8
+  type: drums
+  patterns:
+  - - 80
+    - ..2..2..2..2..2..2..2..2
+  - - 75
+    - '........2...........2...'
+  - - 46
+    - '...........3...........2'
+  - - 42
+    - 4..4..4..4..4..4.44.44..
+  - - 35
+    - 4..4..4..4..4..4..4..4..
+- id: 382
+  name: Soft 14
+  category: 4
+  time: 4/4
+  instrument: 120
+  type: drums
+  patterns:
+  - - 44
+    - 6.3.5.3.
+  - - 46
+    - '..............................2.'
+  - - 42
+    - '................3............3..'
+  - - 37
+    - '............5...............5...'
+  - - 36
+    - 4.....4.4.......4.....4.4.......
+- id: 141
+  name: Medium 01
+  category: 4
+  time: 4/4
+  instrument: 120
+  type: drums
+  patterns:
+  - - 44
+    - 6.545.545.545.54
+  - - 37
+    - '....5.......5...'
+  - - 35
+    - 5..5....4.......
+- id: 142
+  name: Medium 02
+  category: 4
+  time: 4/4
+  instrument: 120
+  type: drums
+  patterns:
+  - - 42
+    - 4.324.324.324213
+  - - 37
+    - '........3..2....'
+  - - 36
+    - 54....43....32..
+- id: 143
+  name: Medium 03
+  category: 4
+  time: 4/4
+  instrument: 120
+  volume: 1
+  type: drums
+  patterns:
+  - - 51
+    - 4.2.324.2.3.4.23
+  - - 75
+    - '....5.....4.....'
+  - - 35
+    - 5.......5.......
+- id: 144
+  name: Medium 04
+  category: 4
+  time: 4/4
+  instrument: 120
+  volume: 2
+  type: drums
+  patterns:
+  - - 51
+    - 3.121.3.121.2.21
+  - - 37
+    - '......2.........'
+  - - 36
+    - 4.2..2..........
+- id: 145
+  name: Medium 05
+  category: 4
+  time: 4/4
+  instrument: 120
+  volume: 3
+  type: drums
+  patterns:
+  - - 44
+    - 6...6..46...6..4
+  - - 42
+    - ..43..3...43..3.
+  - - 37
+    - '....4.......4...'
+  - - 36
+    - 4...............
+- id: 146
+  name: Medium 06
+  category: 4
+  time: 4/4
+  instrument: 120
+  volume: 2
+  type: drums
+  patterns:
+  - - 59
+    - 3...2...2...2...
+    - false
+  - - 37
+    - '........3.......'
+    - false
+  - - 36
+    - 4.....3.......3.
+    - false
+- id: 147
+  name: Medium 07
+  category: 4
+  time: 4/4
+  instrument: 120
+  type: drums
+  patterns:
+  - - 46
+    - '..........6...6.'
+  - - 44
+    - '............7...'
+  - - 42
+    - 7566756575..65..
+  - - 36
+    - 6...5...4...5...
+- id: 148
+  name: Medium 08
+  category: 4
+  time: 4/4
+  instrument: 120
+  volume: 1
+  type: drums
+  patterns:
+  - - 44
+    - 6.535.536.535.53
+  - - 37
+    - '....4.......4...'
+  - - 36
+    - 5..4..4...43..3.
+- id: 149
+  name: Medium 09
+  category: 4
+  time: 4/4
+  instrument: 120
+  volume: 2
+  type: drums
+  patterns:
+  - - 51
+    - 6.4.3.4.6.4.3.5.
+  - - 37
+    - '....4.......4...'
+  - - 36
+    - 5.............................4.
+- id: 150
+  name: Medium 10
+  category: 4
+  time: 4/4
+  instrument: 120
+  type: drums
+  patterns:
+  - - 42
+    - 4.6.4.4.6.4.6.6.
+  - - 37
+    - '........6.....5.'
+  - - 36
+    - 5...4...5...4...
+- id: 151
+  name: Medium 11
+  category: 4
+  time: 4/4
+  instrument: 120
+  volume: 2
+  type: drums
+  patterns:
+  - - 51
+    - 5...4...4...4...
+  - - 38
+    - '........3.......'
+  - - 36
+    - 4.............4.
+- id: 152
+  name: Medium 12
+  category: 4
+  time: 4/4
+  instrument: 120
+  volume: 1
+  type: drums
+  patterns:
+  - - 42
+    - 5.4.4.4.5.4.4.4.
+  - - 38
+    - '....4..2.3..4..3'
+  - - 36
+    - 5.4.......45....
+- id: 424
+  name: Medium 13
+  category: 4
+  time: 4/4
+  instrument: 120
+  type: drums
+  patterns:
+  - - 42
+    - 5.5.5.4.54.5..4.4.54..4.5.454.4.
+  - - 39
+    - '....6...'
+  - - 35
+    - 6.5.....6..5......6.....6..5....
+- id: 383
+  name: Medium 14
+  category: 4
+  time: 4/4
+  instrument: 120
+  volume: 2
+  type: drums
+  patterns:
+  - - 59
+    - 4.2.3.2.
+  - - 54
+    - 2...1...2...1...
+  - - 39
+    - '....4.......4.......4.......4...'
+  - - 38
+    - '....4.......4.......4.......4...'
+  - - 35
+    - 5.......5.3.....5.....4...5.....
+- id: 389
+  name: Medium 15
+  category: 4
+  time: 4/4
+  instrument: 120
+  type: drums
+  patterns:
+  - - 44
+    - '...3...3...3...3...3...3...3.4.3'
+  - - 42
+    - 4.5.4.5.4.5.4.5.4.5.4.5.4.5.4.5.
+  - - 37
+    - '....4.......4.......4.......4...'
+  - - 35
+    - ..6..6.26......26...............
+- id: 118
+  name: Hard 01
+  category: 4
+  time: 4/4
+  instrument: 120
+  volume: 1
+  type: drums
+  patterns:
+  - - 46
+    - 5...4...4...4...
+  - - 38
+    - '....3.......3...'
+  - - 36
+    - 5.34...5.34.....
+- id: 119
+  name: Hard 02
+  category: 4
+  time: 4/4
+  instrument: 120
+  volume: 1
+  type: drums
+  patterns:
+  - - 51
+    - 6.0.6.1.6.1.6.2.
+  - - 38
+    - '....3.......3...'
+  - - 36
+    - 5.34..24.34....2
+- id: 120
+  name: Hard 03
+  category: 4
+  time: 4/4
+  instrument: 120
+  volume: 1
+  type: drums
+  patterns:
+  - - 42
+    - 5.4.5.4.5.4.5.4.
+  - - 38
+    - '....4.......4...'
+  - - 36
+    - 5..4..4.4.....3.
+- id: 121
+  name: Hard 04
+  category: 4
+  time: 4/4
+  instrument: 120
+  type: drums
+  patterns:
+  - - 42
+    - 6.5.4.6.5.5.4.5.
+  - - 38
+    - '....6.......6...'
+  - - 36
+    - 6...4...6...4...
+- id: 122
+  name: Hard 05
+  category: 4
+  time: 4/4
+  instrument: 120
+  volume: 1
+  type: drums
+  patterns:
+  - - 42
+    - 5.5.5.5.5.5.5.5.
+  - - 38
+    - '....5..4....5...'
+  - - 36
+    - 5.43....3.4.....
+- id: 123
+  name: Hard 06
+  category: 4
+  time: 4/4
+  instrument: 120
+  volume: 1
+  type: drums
+  patterns:
+  - - 59
+    - 6.2.6.2.6.2.6.2.
+  - - 38
+    - '....5.......5...'
+  - - 36
+    - 6..3..4...43....
+- id: 124
+  name: Hard 07
+  category: 4
+  time: 4/4
+  instrument: 120
+  volume: 2
+  type: drums
+  patterns:
+  - - 42
+    - 6.2.6.2.6.2.6.2.
+  - - 38
+    - '....3.......3...'
+  - - 36
+    - 5.......3.4.....
+- id: 125
+  name: Hard 08
+  category: 4
+  time: 4/4
+  instrument: 120
+  volume: 2
+  type: drums
+  patterns:
+  - - 42
+    - 6.3.4.5.6.3.4.5.
+  - - 38
+    - '....4.......4...'
+  - - 36
+    - 6..4..3..4.3..4.
+- id: 126
+  name: Hard 09
+  category: 4
+  time: 4/4
+  instrument: 120
+  type: drums
+  patterns:
+  - - 51
+    - 7...6...7...6...
+  - - 38
+    - '....5.......5...'
+  - - 36
+    - 5.........5.....
+- id: 127
+  name: Hard 10
+  category: 4
+  time: 4/4
+  instrument: 120
+  type: drums
+  patterns:
+  - - 42
+    - 7.5.6.5.7.6.5.6.
+  - - 38
+    - ..4...4...4...4.
+  - - 36
+    - 5....5..5..5.5..
+- id: 128
+  name: Hard 11
+  category: 4
+  time: 4/4
+  instrument: 120
+  type: drums
+  patterns:
+  - - 42
+    - 7.5.6.5.
+  - - 38
+    - '....5.......5...'
+  - - 36
+    - 6..5...5.45.....
+- id: 129
+  name: Hard 12
+  category: 4
+  time: 4/4
+  instrument: 120
+  type: drums
+  patterns:
+  - - 59
+    - 7.6.
+  - - 38
+    - ..5...5...5...5.
+  - - 36
+    - 6...55.5.6..55..
+- id: 387
+  name: Hard 13
+  category: 4
+  time: 4/4
+  instrument: 120
+  type: drums
+  patterns:
+  - - 69
+    - '....5.......5...'
+  - - 59
+    - 2...2...2...2...
+  - - 46
+    - ..4...4...4...4.
+  - - 44
+    - ..3...3.....4...
+  - - 42
+    - 5..45..4..45..454..45..4...45..5
+  - - 39
+    - '....5.......5...'
+  - - 35
+    - 6...6...6...6...
+- id: 54
+  name: Electro 01
+  category: 4
+  time: 4/4
+  instrument: 121
+  type: drums
+  patterns:
+  - - 42
+    - 6.3.5.3.5.3.5.3.
+  - - 38
+    - '........5.......'
+  - - 35
+    - 6...............
+- id: 55
+  name: Electro 02
+  category: 4
+  time: 4/4
+  instrument: 121
+  type: drums
+  patterns:
+  - - 44
+    - 4.234.234.234223
+  - - 75
+    - '........4..3..2.'
+  - - 36
+    - 5.....45........
+- id: 56
+  name: Electro 03
+  category: 4
+  time: 4/4
+  instrument: 121
+  volume: 2
+  type: drums
+  patterns:
+  - - 42
+    - 3.212.312.2.3131
+  - - 37
+    - '....2.......2...'
+  - - 35
+    - 3..............1
+- id: 57
+  name: Electro 04
+  category: 4
+  time: 4/4
+  instrument: 121
+  type: drums
+  patterns:
+  - - 46
+    - '..............4.'
+  - - 44
+    - 4.323.423.324...
+  - - 33
+    - '........7..5..4.'
+  - - 35
+    - 7.....5.......6.
+- id: 58
+  name: Electro 05
+  category: 4
+  time: 4/4
+  instrument: 121
+  type: drums
+  patterns:
+  - - 46
+    - '...............2'
+  - - 44
+    - 6.534.6.534.6.5.
+  - - 38
+    - '....4.......4...'
+  - - 35
+    - 6..5..5...5.....
+- id: 59
+  name: Electro 06
+  category: 4
+  time: 4/4
+  instrument: 121
+  type: drums
+  patterns:
+  - - 44
+    - 6.5.4.6.5.4.6.5.
+  - - 37
+    - '........5..4..3.'
+  - - 35
+    - 6.5...5.......43
+- id: 60
+  name: Electro 07
+  category: 4
+  time: 4/4
+  instrument: 121
+  type: drums
+  patterns:
+  - - 44
+    - 7.5.7.5.7.5.7.5.
+  - - 37
+    - '....6.......6...'
+  - - 35
+    - 7.6.......6.....
+- id: 61
+  name: Electro 08
+  category: 4
+  time: 4/4
+  instrument: 121
+  volume: 3
+  type: drums
+  patterns:
+  - - 42
+    - 3.212.312.212.21
+  - - 37
+    - '....3.......3...'
+  - - 35
+    - 3...............
+- id: 62
+  name: Electro 09
+  category: 4
+  time: 4/4
+  instrument: 121
+  type: drums
+  patterns:
+  - - 44
+    - '7454745474547454'
+  - - 38
+    - '....6.......6...'
+  - - 35
+    - 6.....5...5..5..
+- id: 63
+  name: Electro 10
+  category: 4
+  time: 4/4
+  instrument: 121
+  type: drums
+  patterns:
+  - - 37
+    - 8..7..7...8..7..
+  - - 42
+    - 6.656.656.656.65
+  - - 39
+    - '....5.......5...'
+  - - 35
+    - 6...5...5...5...
+- id: 64
+  name: Electro 11
+  category: 4
+  time: 4/4
+  instrument: 121
+  volume: 1
+  type: drums
+  patterns:
+  - - 44
+    - '....6.......6...'
+  - - 42
+    - 5.55..5.5.52..5.
+  - - 39
+    - '....4....4..4...'
+  - - 35
+    - 6.....4...4...4.
+- id: 65
+  name: Electro 12
+  category: 4
+  time: 4/4
+  instrument: 121
+  type: drums
+  patterns:
+  - - 46
+    - ..6...5...6...5.
+  - - 42
+    - 45..45..45..45..
+  - - 39
+    - '....5.......5...'
+  - - 36
+    - 6...5...5...5...
+- id: 422
+  name: Electro 13
+  category: 4
+  time: 4/4
+  instrument: 121
+  type: drums
+  patterns:
+  - - 64
+    - 8.7.....8..7......8.....8..7....
+  - - 42
+    - 5.4.3.4.54.4..3.5.44..3.5.434.5.
+  - - 39
+    - '....6...'
+  - - 35
+    - 6.5.....6..5......6.....6..5....
+- id: 404
+  name: Electro 14
+  category: 4
+  time: 4/4
+  instrument: 121
+  delta: 4
+  type: drums
+  patterns:
+  - - 75
+    - '..............5.........'
+  - - 44
+    - '.....5........4........5'
+  - - 42
+    - 6..5..5..5..6..5..5..5..
+  - - 39
+    - '......4...........4.....'
+  - - 35
+    - 5....4...5.....4........
+- id: 374
+  name: Electro 15
+  category: 4
+  time: 4/4
+  instrument: 121
+  type: drums
+  patterns:
+  - - 80
+    - '2454234323432343'
+  - - 62
+    - '........7..7..7.'
+  - - 64
+    - ..65..6.........
+  - - 38
+    - '....4.......4...'
+  - - 35
+    - 4.......43......
+- id: 402
+  name: Electro 16
+  category: 4
+  time: 4/4
+  instrument: 121
+  volume: 1
+  type: drums
+  patterns:
+  - - 38
+    - '....4.......4...'
+  - - 36
+    - 5.......5.......
+- id: 431
+  name: Electro 17
+  category: 4
+  time: 4/4
+  instrument: 121
+  type: drums
+  patterns:
+  - - 46
+    - ..6...6...6...6.
+  - - 44
+    - 7...7...7...7...
+  - - 39
+    - '....4.......4...'
+  - - 36
+    - 7...7...7...7...
+- id: 267
+  name: Shuffle 01
+  category: 4
+  time: 4/4
+  instrument: 120
+  delta: 4
+  type: drums
+  patterns:
+  - - 42
+    - 4...6.7...5.7...6.7...6.
+  - - 44
+    - ..7.....7.....7.....7...
+  - - 38
+    - '......6...........6.....'
+  - - 35
+    - 7...7.....7.9...8.....7.
+- id: 270
+  name: Shuffle 02
+  category: 4
+  time: 4/4
+  instrument: 120
+  delta: 4
+  type: drums
+  patterns:
+  - - 42
+    - 4...6.7...5.7...6.7...6.
+  - - 44
+    - ..7.....7.....7.....7...
+  - - 37
+    - '......7...........7.....'
+  - - 36
+    - 7...........5...5.....4.
+- id: 272
+  name: Shuffle 03
+  category: 4
+  time: 4/4
+  instrument: 120
+  delta: 4
+  type: drums
+  patterns:
+  - - 42
+    - 7.5.6.7.5.6.7.5.6.7.5.6.
+  - - 37
+    - '......6...3.......6.....'
+  - - 36
+    - 6...........5...........
+- id: 273
+  name: Shuffle 04
+  category: 4
+  time: 4/4
+  instrument: 120
+  delta: 4
+  type: drums
+  patterns:
+  - - 42
+    - 7.5.6.7.5.6.7.5.6.7.5.6.
+  - - 37
+    - '......6...........6.....'
+  - - 36
+    - 6...4.....3.4...5...3.4.
+- id: 364
+  name: Swing 01
+  category: 4
+  time: 4/4
+  instrument: 120
+  delta: 4
+  volume: 3
+  type: drums
+  patterns:
+  - - 51
+    - 4.....4...2.4.....4...2.
+  - - 37
+    - '..................3.....'
+  - - 44
+    - '......5...........5.....'
+  - - 35
+    - 1.....1.....1.....1.....
+- id: 365
+  name: Swing 02
+  category: 4
+  time: 4/4
+  instrument: 120
+  delta: 8
+  type: drums
+  patterns:
+  - - 51
+    - 8..8.58..7.5
+  - - 44
+    - 7..7..7..7..
+  - - 37
+    - '......7...........7.4...'
+  - - 35
+    - 6...........
+- id: 366
+  name: Swing 03
+  category: 4
+  time: 4/4
+  instrument: 120
+  volume: 2
+  type: drums
+  patterns:
+  - - 51
+    - 5...5.3.5...5.3.5...5.3.5.1.5.3.
+  - - 44
+    - '....7.......7...'
+  - - 37
+    - '................'
+  - - 35
+    - 4.............2.
+- id: 367
+  name: Swing 04 - 3/4
+  category: 4
+  time: 3/4
+  instrument: 120
+  delta: 8
+  type: drums
+  patterns:
+  - - 51
+    - 7..7.57.57..7..7.5
+  - - 44
+    - 7..7..7..7..7..7..
+  - - 37
+    - '......5........5.0'
+  - - 35
+    - 5.......5.........
+- id: 428
+  name: Swing 05 - 3/4
+  category: 4
+  time: 3/4
+  instrument: 120
+  delta: 8
+  type: drums
+  patterns:
+  - - 59
+    - 6..5.45.45..5.45.4
+  - - 37
+    - '...4.3......4.....'
+  - - 35
+    - 5........5.....4..
+- id: 425
+  name: Swing 06
+  category: 4
+  time: 4/4
+  instrument: 120
+  delta: 8
+  type: drums
+  patterns:
+  - - 59
+    - 5..5.45..5.4
+  - - 37
+    - '.....4.....3.....4..3.4.'
+  - - 35
+    - 4..3..4..3..
+- id: 398
+  name: Swing 07
+  category: 4
+  time: 4/4
+  instrument: 120
+  delta: 8
+  type: drums
+  patterns:
+  - - 51
+    - 5..4..5..4..5..4..5..4..
+  - - 38
+    - '......2...........2.....'
+  - - 35
+    - 5.........4.............
+- id: 188
+  name: Percussion 01
+  category: 4
+  time: 4/4
+  instrument: 120
+  volume: 2
+  type: drums
+  patterns:
+  - - 54
+    - 501.401.401.401.
+- id: 189
+  name: Percussion 02
+  category: 4
+  time: 4/4
+  instrument: 120
+  type: drums
+  patterns:
+  - - 69
+    - 5.325.325.325.32
+- id: 190
+  name: Percussion 03
+  category: 4
+  time: 4/4
+  instrument: 120
+  delta: 3
+  type: drums
+  patterns:
+  - - 70
+    - 5...3.2.5...3.2.
+- id: 191
+  name: Percussion 04
+  category: 4
+  time: 4/4
+  instrument: 120
+  type: drums
+  patterns:
+  - - 69
+    - 3.1.2.1.2.1.2.1.
+    - false
+  - - 62
+    - '........4.......'
+    - false
+  - - 63
+    - 5.....3.........
+    - false
+- id: 192
+  name: Percussion 05
+  category: 4
+  time: 4/4
+  instrument: 120
+  volume: 3
+  type: drums
+  patterns:
+  - - 69
+    - 3.1.3.1.3.1.3.1.
+  - - 62
+    - '...4......3.4...'
+  - - 64
+    - 5.....4.5.....4.
+- id: 193
+  name: Percussion 06
+  category: 4
+  time: 4/4
+  instrument: 120
+  volume: 3
+  type: drums
+  patterns:
+  - - 64
+    - 4.....4.........
+  - - 63
+    - '....4.....4.....'
+  - - 62
+    - '............6...'
+  - - 46
+    - '....3...........'
+  - - 44
+    - 4.3.0.3.4.3.3.3.
+  - - 38
+    - '......4.....4...'
+  - - 35
+    - 4...............
+- id: 194
+  name: Percussion 07
+  category: 4
+  time: 4/4
+  instrument: 120
+  type: drums
+  patterns:
+  - - 81
+    - 10......10......
+  - - 80
+    - '....4030....4030'
+  - - 75
+    - 60..50....60..50..50....60..50..
+  - - 59
+    - '3010103010103010'
+  - - 37
+    - '......20....20..'
+  - - 36
+    - 20......20......20......20....10
+- id: 435
+  name: Percussion 08
+  category: 4
+  time: 4/4
+  instrument: 120
+  type: drums
+  patterns:
+  - - 82
+    - 5.1.4.1.4.1.4.1.
+- id: 395
+  name: Percussion 09
+  category: 4
+  time: 4/4
+  instrument: 120
+  volume: 2
+  type: drums
+  patterns:
+  - - 70
+    - ..66..6...6...6.
+  - - 64
+    - '......7.......7.'
+  - - 60
+    - 7...7...7...7...
+  - - 42
+    - 6.666.666.666.66
+  - - 35
+    - 7.....7.7.....7.
+- id: 153
+  name: Metronome 2/4
+  category: 4
+  time: 3/4
+  instrument: 120
+  type: drums
+  patterns:
+  - - 37
+    - 6...4...
+- id: 154
+  name: Metronome 3/4
+  category: 4
+  time: 3/4
+  instrument: 120
+  type: drums
+  patterns:
+  - - 37
+    - 6...4...4...
+- id: 155
+  name: Metronome 4/4
+  category: 4
+  time: 4/4
+  instrument: 120
+  type: drums
+  patterns:
+  - - 37
+    - 6...4...4...4...
+- id: 156
+  name: Metronome 5/4
+  category: 4
+  time: 4/4
+  instrument: 120
+  type: drums
+  patterns:
+  - - 37
+    - 6...4...4...4...4...
+- id: 157
+  name: Metronome 6/8
+  category: 4
+  time: 6/8
+  instrument: 120
+  type: drums
+  patterns:
+  - - 37
+    - 6.4.4.6.4.4.
+- id: 249
+  name: Rhodes 01
+  category: 5
+  time: 4/4
+  instrument: 4
+  sustain: true
+  patterns:
+  - - -12
+    - 6...............5...............
+    - true
+  - - 3
+    - 5...............4...............
+  - - 4
+    - 6...............5...............
+  - - 5
+    - 5...............4...............
+  - - 6
+    - 6...............5...............
+- id: 250
+  name: Rhodes 02
+  category: 5
+  time: 4/4
+  instrument: 4
+  volume: 1
+  patterns:
+  - - -12
+    - 5.......4.......
+    - true
+  - - 3
+    - 4.......3.......
+  - - 4
+    - 5.......4.......
+  - - 5
+    - 4.......3.......
+  - - 6
+    - 5.......4.......
+- id: 251
+  name: Rhodes 03
+  category: 5
+  time: 4/4
+  instrument: 4
+  volume: 1
+  patterns:
+  - - -12
+    - 5...............
+    - true
+  - - 3
+    - 4.0.3.0.5.0.4.0.
+  - - 4
+    - 5.0.4.0.4.0.4.0.
+  - - 5
+    - 4.0.3.0.3.0.3.0.
+  - - 6
+    - 5.0.4.0.3.0.4.0.
+- id: 252
+  name: Rhodes 04
+  category: 5
+  time: 4/4
+  instrument: 4
+  volume: 2
+  patterns:
+  - - -12
+    - 4.......
+    - true
+  - - 3
+    - '30203030'
+  - - 4
+    - '40303020'
+  - - 5
+    - '30303030'
+  - - 6
+    - '30303030'
+- id: 253
+  name: Rhodes 05
+  category: 5
+  time: 4/4
+  instrument: 4
+  volume: 3
+  leading: 16
+  continous: true
+  patterns:
+  - - 3
+    - ..30....4...0.....30....3.30....
+  - - 4
+    - ..30....3...0.....30....4.30....
+  - - 5
+    - ..30....3...0.....40....3.30....
+  - - 6
+    - ..30....3...0.....40....3.30....
+- id: 254
+  name: Rhodes 06
+  category: 5
+  time: 4/4
+  instrument: 4
+  volume: 2
+  patterns:
+  - - -12
+    - 4...............
+    - true
+  - - 3
+    - 3...4...3...3...
+  - - 4
+    - 4...3...4...3.4.
+  - - 5
+    - 3...3..43.3.3..4
+  - - 6
+    - 3...4...24..3...
+- id: 255
+  name: Rhodes 07
+  category: 5
+  time: 4/4
+  instrument: 4
+  volume: 2
+  patterns:
+  - - -12
+    - 3...2...2...2...
+    - true
+  - - 3
+    - '....30......30..'
+  - - 4
+    - '....40......40..'
+  - - 5
+    - '....30......30..'
+  - - 6
+    - '....40......40..'
+- id: 256
+  name: Rhodes 08
+  category: 5
+  time: 4/4
+  instrument: 4
+  transpose: -12
+  invert: false
+  patterns:
+  - - 0
+    - 6.......0.......
+  - - 2
+    - 0.......6.......
+  - - 3
+    - 0.4.0.4.0.4.0.4.
+  - - 4
+    - 0...4.......5...
+  - - 5
+    - 0...5.......4...
+  - - 6
+    - 0...6.......6...
+- id: 257
+  name: Rhodes 09 - 3/4
+  category: 5
+  time: 3/4
+  instrument: 4
+  volume: 2
+  patterns:
+  - - -12
+    - 4.0...3.0.3.
+    - true
+  - - 3
+    - '....3.0.4.0.'
+  - - 4
+    - '....4.0.3.0.'
+  - - 5
+    - '....3.0.4.0.'
+  - - 6
+    - '....4.0.3.0.'
+- id: 258
+  name: Rhodes 10
+  category: 5
+  time: 4/4
+  instrument: 4
+  volume: 1
+  patterns:
+  - - -12
+    - 3.....
+    - true
+  - - 2
+    - 4.....
+  - - 3
+    - 0...4.
+  - - 4
+    - 0.5...
+  - - 5
+    - 6.....
+- id: 259
+  name: Rhodes 11
+  category: 5
+  time: 4/4
+  instrument: 4
+  volume: 2
+  patterns:
+  - - -12
+    - 5...............
+    - true
+  - - 2
+    - 5...............
+  - - 3
+    - 0.4...........4.
+  - - 4
+    - 0...4.......4...
+  - - 5
+    - 0.....4.........
+- id: 260
+  name: Rhodes 12
+  category: 5
+  time: 4/4
+  instrument: 4
+  volume: 1
+  patterns:
+  - - -12
+    - 5...............
+    - true
+  - - 3
+    - 6...............
+    - false
+  - - 4
+    - 0.5...5.....4...
+    - false
+  - - 5
+    - 0...4.....5...5.
+    - false
+  - - 6
+    - 0.......6.......
+    - false
+- id: 261
+  name: Rhodes 13
+  category: 5
+  time: 4/4
+  instrument: 4
+  volume: 1
+  continous: true
+  patterns:
+  - - -12
+    - 3...............
+    - true
+  - - 3
+    - 4.......
+  - - 4
+    - 0.5.....
+  - - 5
+    - 0...4...
+  - - 6
+    - '......5.'
+- id: 262
+  name: Rhodes 14
+  category: 5
+  time: 4/4
+  instrument: 4
+  volume: 1
+  patterns:
+  - - -12
+    - 5...............
+    - true
+  - - 2
+    - 0.....4.....4...
+  - - 3
+    - 0...4.....4.....
+  - - 4
+    - ..5.....5.....5.
+  - - 5
+    - 6.....6.....6...
+- id: 263
+  name: Rhodes 15
+  category: 5
+  time: 4/4
+  instrument: 4
+  volume: 1
+  patterns:
+  - - 5
+    - 0.......6.......
+  - - 4
+    - ..6...0.......6.
+  - - 3
+    - 0...5...0.5.....
+  - - 2
+    - 0.....4...0.4...
+  - - 1
+    - ..0.....3...0.3.
+  - - -12
+    - 6...............
+    - true
+- id: 264
+  name: Rhodes 16 - 6/8
+  category: 5
+  time: 6/8
+  instrument: 4
+  volume: 1
+  patterns:
+  - - -12
+    - 5.........3.
+    - true
+  - - 3
+    - 5...........
+  - - 4
+    - ..4.......4.
+  - - 5
+    - 0...3...5...
+  - - 6
+    - 0.....6.....
+- id: 403
+  name: Rhodes 17
+  category: 5
+  time: 4/4
+  instrument: 4
+  patterns:
+  - - 4
+    - 5...............
+  - - 3
+    - 0.......5.......
+  - - 2
+    - 0...5.......5...
+  - - 1
+    - 0.6...6...6...6.
+  - - -12
+    - 7...............
+    - true
+- id: 421
+  name: Rhodes 18
+  category: 5
+  time: 4/4
+  instrument: 4
+  patterns:
+  - - 0
+    - ..70605040304040
+  - - 1
+    - ..70605040304040
+  - - 2
+    - ..70605040304040
+  - - 3
+    - ..70605040304040
+- id: 427
+  name: Rhodes 19 - 3/4
+  category: 5
+  time: 3/4
+  instrument: 4
+  delta: 8
+  volume: 1
+  continous: true
+  patterns:
+  - - 7
+    - 0.5.0.4.00.5.0.4.5
+  - - 5
+    - 0.4.0.5.00.4.0.5.4
+  - - 4
+    - 0.5.0.4.00.5.0.4.5
+  - - 2
+    - 0.4.0.5.00.4.0.5.4
+  - - 0
+    - 0.5.0.4.00.5.0.4.5
+  - - -12
+    - 6...06..66...06..6
+    - true
+- id: 66
+  name: FM 01
+  category: 5
+  time: 4/4
+  instrument: 5
+  volume: 1
+  patterns:
+  - - -12
+    - 4...............
+    - true
+  - - 2
+    - 3...............
+  - - 3
+    - 4...............
+  - - 4
+    - 3...............
+  - - 5
+    - 3...............
+- id: 67
+  name: FM 02
+  category: 5
+  time: 4/4
+  instrument: 5
+  patterns:
+  - - -12
+    - 5...............
+    - true
+  - - 2
+    - 4.......4.......
+  - - 3
+    - 5.......4.......
+  - - 4
+    - 4.......4.......
+  - - 5
+    - 5.......4.......
+- id: 68
+  name: FM 03
+  category: 5
+  time: 4/4
+  instrument: 5
+  patterns:
+  - - 0
+    - 5...............
+    - true
+  - - 2
+    - 5.3.2.5.3.3.4.2.
+  - - 3
+    - 5.3.3.4.3.2.5.3.
+  - - 4
+    - 5.2.3.5.3.3.4.3.
+  - - 5
+    - 5.3.3.4.2.3.5.3.
+- id: 69
+  name: FM 04
+  category: 5
+  time: 4/4
+  instrument: 5
+  volume: 1
+  continous: true
+  patterns:
+  - - 0
+    - 4.3.0.3.4.3.0.3.
+    - true
+  - - 2
+    - 4.3.0.4.3.3.0.3.
+  - - 3
+    - 3.3.0.3.4.3.0.4.
+  - - 4
+    - 4.3.0.3.3.4.0.3.
+  - - 5
+    - 3.3.0.3.4.3.0.3.
+- id: 70
+  name: FM 05
+  category: 5
+  time: 4/4
+  instrument: 5
+  volume: 1
+  continous: true
+  patterns:
+  - - -12
+    - 4...............3...............
+    - true
+  - - 2
+    - 3...............3.......2.......3...............3.......3.......
+  - - 3
+    - 3...............3.............3.3...............3..........3....
+  - - 4
+    - 3...............3..........3....3...............3.............3.
+  - - 5
+    - 2...............3.......3.......2...............3.......2.......
+- id: 71
+  name: FM 06
+  category: 5
+  time: 4/4
+  instrument: 5
+  patterns:
+  - - -12
+    - 5...............
+    - true
+  - - 2
+    - 5.203020304.5.5.
+  - - 3
+    - 5.304040303.4.5.
+  - - 4
+    - 5.404030303.4.5.
+  - - 5
+    - 5.403040304.3.4.
+- id: 72
+  name: FM 07
+  category: 5
+  time: 4/4
+  instrument: 5
+  patterns:
+  - - -12
+    - 5.....4...4...4.
+    - true
+  - - 2
+    - 4...3...5...4...
+  - - 3
+    - 5...4...3...4...
+  - - 4
+    - 4...3...4...3...
+  - - 5
+    - 5...4...3...4...
+- id: 73
+  name: FM 08
+  category: 5
+  time: 4/4
+  instrument: 5
+  volume: 1
+  leading: 16
+  continous: true
+  patterns:
+  - - -12
+    - 4...............4...............
+    - true
+  - - 2
+    - ..30....4...0.....30....3.30....
+  - - 3
+    - ..30....3...0.....30....4.30....
+  - - 4
+    - ..30....3...0.....40....3.30....
+  - - 5
+    - ..30....3...0.....40....3.30....
+- id: 74
+  name: FM 09
+  category: 5
+  time: 4/4
+  instrument: 5
+  volume: 2
+  patterns:
+  - - -12
+    - 4...............
+    - true
+  - - 2
+    - 3...4...3...3...
+  - - 3
+    - 4...3...4...3.4.
+  - - 4
+    - 3...3..43.3.3..4
+  - - 5
+    - 3...4...24..3...
+- id: 75
+  name: FM 10
+  category: 5
+  time: 4/4
+  instrument: 5
+  volume: 2
+  patterns:
+  - - 2
+    - '....30......30..'
+  - - 3
+    - '....40......40..'
+  - - 4
+    - '....30......30..'
+  - - 5
+    - '....40......40..'
+- id: 76
+  name: FM 11 - 3/4
+  category: 5
+  time: 3/4
+  instrument: 5
+  volume: 2
+  patterns:
+  - - -12
+    - 4.....3...3.
+    - true
+  - - 1
+    - 0...3...4...
+  - - 2
+    - 0...4...3...
+  - - 3
+    - 0...3...4...
+  - - 4
+    - 0...4...3...
+- id: 77
+  name: FM 12
+  category: 5
+  time: 4/4
+  instrument: 5
+  volume: 1
+  continous: true
+  patterns:
+  - - -12
+    - 3...............
+    - true
+  - - 2
+    - 4.......
+  - - 3
+    - ..5.....
+  - - 4
+    - '....4...'
+  - - 5
+    - '......5.'
+- id: 78
+  name: FM 13
+  category: 5
+  time: 4/4
+  instrument: 5
+  volume: 1
+  patterns:
+  - - 5
+    - '........6.......'
+  - - 4
+    - ..6...........6.
+  - - 3
+    - '....5.....5.....'
+  - - 2
+    - '......4.....4...'
+  - - 1
+    - '........3.....3.'
+  - - -12
+    - 6...............
+    - true
+- id: 79
+  name: FM 14
+  category: 5
+  time: 4/4
+  instrument: 5
+  volume: 1
+  patterns:
+  - - 6
+    - '........5.......'
+  - - 5
+    - 5....4.......4..
+  - - 4
+    - '...5.......5....'
+  - - 3
+    - ..4...5...4...5.
+  - - 2
+    - '....5...3...5...'
+  - - -12
+    - 5...............
+    - true
+- id: 80
+  name: FM 15
+  category: 5
+  time: 4/4
+  instrument: 5
+  continous: true
+  patterns:
+  - - -12
+    - 4...............
+    - true
+  - - 2
+    - 4...............
+  - - 3
+    - '....4.....4.....'
+  - - 4
+    - ..5.....5.....5.
+  - - 5
+    - 6.....6.....6...
+- id: 81
+  name: FM 16 - 6/8
+  category: 5
+  time: 6/8
+  instrument: 5
+  volume: 1
+  patterns:
+  - - -12
+    - 5.........3.
+    - true
+  - - 2
+    - 5...........
+  - - 3
+    - ..4.......4.
+  - - 4
+    - '....3...5...'
+  - - 5
+    - '......6.....'
+- id: 401
+  name: FM 17
+  category: 5
+  time: 4/4
+  instrument: 5
+  volume: 2
+  patterns:
+  - - 4
+    - 3...............
+  - - 3
+    - 0.......3.......
+  - - 2
+    - 0...3.......3...
+  - - 1
+    - 0.3...3...3...3.
+  - - -12
+    - 4...............
+    - true
+- id: 411
+  name: FM 18
+  category: 5
+  time: 4/4
+  instrument: 5
+  patterns:
+  - - -12
+    - 650.............
+    - true
+  - - 2
+    - 540.............
+  - - 3
+    - 650.............
+  - - 4
+    - 540.............
+  - - 5
+    - 650.............
+- id: 418
+  name: FM 19
+  category: 5
+  time: 4/4
+  instrument: 5
+  continous: true
+  patterns:
+  - - -12
+    - 5.0.........5...
+    - true
+  - - 3
+    - 4.0.............
+  - - 4
+    - 5.0.........5...
+  - - 5
+    - 5.0.........4...
+  - - 6
+    - 5.0.........5...
+  - - 7
+    - 0...........6...
+- id: 391
+  name: FM 20
+  category: 5
+  time: 4/4
+  instrument: 5
+  patterns:
+  - - 3
+    - 6.....................0.4.050.6.
+  - - 2
+    - 5.....................0.4.050.5.
+  - - 1
+    - 5.....................0.4.050.5.
+  - - 0
+    - 6.....................0.4.050.5.
+- id: 172
+  name: Organ 01
+  category: 5
+  time: 4/4
+  instrument: 16
+  transpose: 12
+  patterns:
+  - - -24
+    - 5...............
+    - true
+  - - 0
+    - 4...............
+  - - 1
+    - 4...............
+  - - 2
+    - 4...............
+  - - 3
+    - 4...............
+- id: 173
+  name: Organ 02
+  category: 5
+  time: 4/4
+  instrument: 16
+  transpose: 12
+  patterns:
+  - - -24
+    - 5...............
+    - true
+  - - 3
+    - 4...............
+  - - 4
+    - 4...............
+  - - 5
+    - 4...............
+  - - 6
+    - 4...............
+- id: 174
+  name: Organ 03
+  category: 5
+  time: 4/4
+  instrument: 16
+  transpose: 12
+  volume: 1
+  patterns:
+  - - -24
+    - 4.....3...4...5.
+    - true
+  - - 0
+    - 3.0.4.0.3.0.3.0.
+  - - 1
+    - 4.0.3.0.4.0.3.0.
+  - - 2
+    - 3.0.3.0.3.0.3.0.
+  - - 3
+    - 3.0.4.0.2.0.3.0.
+- id: 175
+  name: Organ 05
+  category: 5
+  time: 4/4
+  instrument: 16
+  transpose: 12
+  volume: 1
+  patterns:
+  - - -24
+    - 4.......
+    - true
+  - - 0
+    - '30203030'
+  - - 1
+    - '40303020'
+  - - 2
+    - '30303030'
+  - - 3
+    - '30303030'
+- id: 176
+  name: Organ 06
+  category: 5
+  time: 4/4
+  instrument: 16
+  transpose: 12
+  patterns:
+  - - -24
+    - 4...............
+    - true
+  - - 0
+    - '....4040....40..'
+  - - 1
+    - '....4030....40..'
+  - - 2
+    - '....4040....40..'
+  - - 3
+    - '....4030....40..'
+- id: 177
+  name: Organ 07
+  category: 5
+  time: 4/4
+  instrument: 16
+  transpose: 12
+  patterns:
+  - - -24
+    - 3...............
+    - true
+  - - 0
+    - ..40..40..40..40
+  - - 1
+    - ..30..30..30..30
+  - - 2
+    - ..40..40..40..40
+  - - 3
+    - ..40..40..40..40
+- id: 178
+  name: Organ 08
+  category: 5
+  time: 4/4
+  instrument: 16
+  transpose: 12
+  leading: 16
+  continous: true
+  patterns:
+  - - -24
+    - 4...............4...............
+    - true
+  - - 0
+    - ..30....4..0......30....3.30....
+  - - 1
+    - ..30....3..0......30....4.30....
+  - - 2
+    - ..30....3..0......40....3.30....
+  - - 3
+    - ..30....3..0......40....3.30....
+- id: 179
+  name: Organ 09
+  category: 5
+  time: 4/4
+  instrument: 16
+  transpose: 12
+  patterns:
+  - - -24
+    - 4...............
+    - true
+  - - 0
+    - 4.0...4.0...4.0.
+  - - 1
+    - 0...4.0...4.0...
+  - - 2
+    - 0.5.0...5.0...5.
+  - - 3
+    - 5.0...4.0...4.0.
+- id: 180
+  name: Organ 10
+  category: 5
+  time: 4/4
+  instrument: 16
+  transpose: 12
+  delta: 3
+  patterns:
+  - - -24
+    - 4...............
+    - true
+  - - 0
+    - 5.0...5.0...5.0.
+  - - 1
+    - 0...4.0...4.0...
+  - - 2
+    - 0.5.0...5.0...5.
+  - - 3
+    - 4.0...4.0...4.0.
+- id: 181
+  name: Organ 11
+  category: 5
+  time: 4/4
+  instrument: 16
+  transpose: 12
+  delta: 3
+  patterns:
+  - - -24
+    - 5...............
+    - true
+  - - 0
+    - '......3.0.......'
+  - - 1
+    - '....4.0.6.0.....'
+  - - 2
+    - 0.5.0.....5.0.3.
+  - - 3
+    - 6.0.........4.0.
+- id: 182
+  name: Organ 12
+  category: 5
+  time: 4/4
+  instrument: 16
+  transpose: 12
+  volume: 1
+  patterns:
+  - - -24
+    - 4...............
+    - true
+  - - 0
+    - 40..40..40..40..
+    - false
+  - - 1
+    - .40..40..40..40.
+    - false
+  - - 2
+    - ..50..50..50..50
+    - false
+  - - 3
+    - 0..50..50..50..5
+    - false
+- id: 183
+  name: Organ 13
+  category: 5
+  time: 4/4
+  instrument: 16
+  transpose: 12
+  leading: 14
+  patterns:
+  - - 3
+    - 4.0.....4.0.....
+  - - 2
+    - ..4.0.....4.0...
+  - - 1
+    - '....4.0.....4.0.'
+  - - 0
+    - 0.....4.0.....4.
+  - - -24
+    - 5.......5.......
+    - true
+- id: 184
+  name: Organ 14
+  category: 5
+  time: 4/4
+  instrument: 16
+  transpose: 12
+  volume: 1
+  patterns:
+  - - -24
+    - 4...............
+    - true
+  - - 0
+    - 2.0...3.0...4.0.
+  - - 1
+    - 0.3.0.....2.0.3.
+  - - 2
+    - '....2.0.3.0.....'
+  - - 3
+    - 2.0...4.0...2.0.
+- id: 185
+  name: Organ 15
+  category: 5
+  time: 4/4
+  instrument: 16
+  transpose: 12
+  patterns:
+  - - -24
+    - 4...............
+    - true
+  - - 0
+    - 4...............
+  - - 1
+    - '....3...0.......'
+  - - 2
+    - '........3...0...'
+  - - 3
+    - 0...........3...
+  - - 4
+    - 4...............
+- id: 384
+  name: Organ 16
+  category: 5
+  time: 4/4
+  instrument: 16
+  delta: 12
+  continous: true
+  patterns:
+  - - 0
+    - 5..0.....505..0.
+    - true
+  - - 2
+    - 5..0.....505..0.
+  - - 4
+    - 5..0.....505..0.
+  - - 5
+    - 5..0.....505..0.
+  - - 6
+    - 5..0.....505..0.
+- id: 186
+  name: Organ Bass 01
+  category: 5
+  time: 4/4
+  instrument: 16
+  transpose: -12
+  invert: false
+  patterns:
+  - - 0
+    - 7...............
+    - true
+- id: 187
+  name: Organ Bass 02
+  category: 5
+  time: 4/4
+  instrument: 16
+  transpose: -12
+  invert: false
+  patterns:
+  - - 0
+    - 7...6...6...6...
+    - true
+- id: 368
+  name: Vibraphone 01
+  category: 5
+  time: 4/4
+  instrument: 11
+  patterns:
+  - - 0
+    - 6.............................5.
+    - true
+  - - 2
+    - 5...............3...........4...
+  - - 3
+    - 6...............4.........5.....
+  - - 4
+    - 5...............3.......6.......
+  - - 5
+    - '................5...............'
+- id: 369
+  name: Vibraphone 02
+  category: 5
+  time: 4/4
+  instrument: 11
+  volume: 2
+  continous: true
+  patterns:
+  - - 0
+    - 3.......
+    - true
+  - - 2
+    - 4.......
+  - - 3
+    - ..3.....
+  - - 4
+    - '....2...'
+  - - 5
+    - '......3.'
+- id: 370
+  name: Vibraphone 03
+  category: 5
+  time: 4/4
+  instrument: 11
+  sustain: true
+  patterns:
+  - - 0
+    - 5...........
+    - true
+  - - 2
+    - 5..0........
+    - false
+  - - 3
+    - 0.5..0....5.
+    - false
+  - - 4
+    - '....4..0....'
+    - false
+  - - 5
+    - .0....4.0...
+    - false
+- id: 371
+  name: Vibraphone 04
+  category: 5
+  time: 4/4
+  instrument: 11
+  leading: 14
+  continous: true
+  patterns:
+  - - 5
+    - 60..5....060..5....060....50....
+  - - 4
+    - 50..5....060..6....050....60....
+  - - 3
+    - 50..5....060..6....050....60....
+  - - 2
+    - 60..6....050..5....060....50....
+  - - 0
+    - 50..5....050..5....050....50....
+    - true
+- id: 372
+  name: Vibraphone 05
+  category: 5
+  time: 4/4
+  instrument: 11
+  volume: 1
+  patterns:
+  - - 5
+    - '........6.......'
+  - - 4
+    - ..6...........6.
+  - - 3
+    - '....5.....5.....'
+  - - 2
+    - '......4.....4...'
+  - - 1
+    - '........3.....3.'
+  - - -12
+    - 6...............
+    - true
+- id: 13
+  name: Arpeggio 01
+  category: 6
+  time: 4/4
+  instrument: 1
+  volume: 2
+  continous: true
+  patterns:
+  - - -12
+    - 4...............
+    - true
+  - - 1
+    - 4...3...4...5...
+    - false
+  - - 2
+    - .2...3...4...5..
+    - false
+  - - 3
+    - ..3...4...4...5.
+    - false
+  - - 4
+    - .2.4...4...5...5
+    - false
+  - - 5
+    - 4...............
+    - false
+- id: 14
+  name: Arpeggio 02
+  category: 6
+  time: 4/4
+  instrument: 0
+  delta: 4
+  volume: 1
+  patterns:
+  - - 3
+    - 5.....5.....5.....5.....
+    - false
+  - - 2
+    - ..4.....4.....4.....4...
+    - false
+  - - 1
+    - '....5.....4.....5.....4.'
+    - false
+  - - 0
+    - 4.....4.....4.....4.....
+    - false
+  - - -24
+    - 4.....................3.
+    - true
+  - - -12
+    - '............3...........'
+    - true
+- id: 15
+  name: Arpeggio 03
+  category: 6
+  time: 4/4
+  instrument: 0
+  patterns:
+  - - 0
+    - 5...............
+    - true
+  - - 3
+    - 6...............
+    - false
+  - - 4
+    - ..5...5.....4...
+    - false
+  - - 5
+    - '....4.....5...5.'
+    - false
+  - - 6
+    - '........6.......'
+    - false
+- id: 16
+  name: Arpeggio 04
+  category: 6
+  time: 4/4
+  instrument: 0
+  volume: 1
+  continous: true
+  patterns:
+  - - 0
+    - 3...............
+    - true
+  - - 3
+    - 4.......
+  - - 4
+    - ..5.....
+  - - 5
+    - '....4...'
+  - - 6
+    - '......5.'
+- id: 17
+  name: Arpeggio 05
+  category: 6
+  time: 4/4
+  instrument: 0
+  delta: 3
+  sustain: true
+  patterns:
+  - - 0
+    - 5...............
+    - true
+  - - 1
+    - '......4.......4.'
+  - - 2
+    - '....5.......5...'
+  - - 3
+    - ..6.......6.....
+  - - 4
+    - 7.......6.......
+- id: 18
+  name: Arpeggio 06
+  category: 6
+  time: 4/4
+  instrument: 1
+  transpose: -12
+  patterns:
+  - - 7
+    - 0.......6.......
+  - - 6
+    - ..6...........6.
+  - - 5
+    - 0...5.....5.....
+  - - 4
+    - 0.....4.....4...
+  - - 3
+    - 0.......3.....3.
+  - - 0
+    - 6...............
+    - true
+- id: 19
+  name: Arpeggio 07
+  category: 6
+  time: 4/4
+  instrument: 0
+  invert: false
+  patterns:
+  - - 0
+    - 6...............
+    - true
+  - - 1
+    - 0.4.....2.......
+  - - 2
+    - 0...5.....4.....
+  - - 3
+    - 0.....6.....5...
+  - - 4
+    - '........6.....6.'
+- id: 20
+  name: Arpeggio 08
+  category: 6
+  time: 4/4
+  instrument: 1
+  transpose: -12
+  patterns:
+  - - 6
+    - '............5...'
+  - - 5
+    - '......5.........'
+  - - 4
+    - '..........4.....'
+  - - 3
+    - '....4...........'
+  - - 0
+    - 5...............
+    - true
+- id: 21
+  name: Arpeggio 09
+  category: 6
+  time: 4/4
+  instrument: 1
+  transpose: -12
+  volume: 2
+  patterns:
+  - - 0
+    - 4...............
+    - true
+  - - 6
+    - 2.....2.....4...
+  - - 5
+    - ..3.......2...3.
+  - - 4
+    - '....2...3.......'
+  - - 3
+    - 2.....4.....2...
+- id: 22
+  name: Arpeggio 10
+  category: 6
+  time: 4/4
+  instrument: 1
+  transpose: -12
+  volume: 2
+  patterns:
+  - - 0
+    - 4...............
+    - true
+  - - 3
+    - 2.....3.....4...
+  - - 4
+    - ..3.......2...3.
+  - - 5
+    - '....2...3.......'
+  - - 6
+    - 2.....4.....2...
+- id: 23
+  name: Arpeggio 11
+  category: 6
+  time: 4/4
+  instrument: 0
+  transpose: -12
+  patterns:
+  - - 7
+    - 0.....6.........
+  - - 6
+    - ..0...3.......6.
+  - - 5
+    - ..5.......5...3.
+  - - 4
+    - 0...5.......6...
+  - - 0
+    - 5...............
+    - true
+- id: 24
+  name: Arpeggio 12
+  category: 6
+  time: 4/4
+  instrument: 1
+  transpose: -12
+  volume: 1
+  patterns:
+  - - 6
+    - 0......4.5......
+  - - 5
+    - 0....4....4.5...
+  - - 4
+    - 0.5...5....3.4..
+  - - 3
+    - 4.............3.
+  - - 2
+    - '...0...........3'
+  - - 0
+    - 3...2...2...2...
+    - true
+- id: 25
+  name: Arpeggio 13
+  category: 6
+  time: 4/4
+  instrument: 1
+  transpose: -12
+  patterns:
+  - - 7
+    - '.......5........'
+  - - 6
+    - 0..5.......5...4
+  - - 5
+    - 0.4...5...5...5.
+  - - 4
+    - 03...4...4...4..
+  - - 3
+    - 0...4...3...4...
+  - - 0
+    - 5...............
+    - true
+- id: 26
+  name: Arpeggio 14
+  category: 6
+  time: 4/4
+  instrument: 0
+  volume: 1
+  invert: false
+  patterns:
+  - - 0
+    - 4...............
+    - true
+  - - 2
+    - 0.4...2.....4...
+  - - 3
+    - ..0.4...3.....4.
+  - - 4
+    - 0.........4.....
+  - - 5
+    - 0.....5.........
+- id: 27
+  name: Arpeggio 15
+  category: 6
+  time: 4/4
+  instrument: 1
+  transpose: -12
+  volume: 1
+  patterns:
+  - - 0
+    - 4...............
+    - true
+  - - 3
+    - ..3...3.
+  - - 4
+    - '...4....'
+  - - 5
+    - '.....5..'
+  - - 6
+    - 4.......
+- id: 28
+  name: Arpeggio 16
+  category: 6
+  time: 4/4
+  instrument: 1
+  transpose: -12
+  invert: false
+  patterns:
+  - - 0
+    - 6.......0.......
+    - true
+  - - 2
+    - 0.......6.......
+  - - 3
+    - ..4.......4.....
+  - - 4
+    - 0...5.......5...
+  - - 5
+    - '......6.......6.'
+- id: 29
+  name: Arpeggio 17
+  category: 6
+  time: 4/4
+  instrument: 1
+  transpose: -12
+  volume: 1
+  patterns:
+  - - 0
+    - 5...............
+    - true
+  - - 3
+    - '......4.....4...'
+  - - 4
+    - '....4.....4.....'
+  - - 5
+    - ..5.....5.....5.
+  - - 6
+    - 6.....6.....6...
+- id: 30
+  name: Arpeggio 18
+  category: 6
+  time: 4/4
+  instrument: 1
+  transpose: -12
+  patterns:
+  - - 6
+    - 3.....5.........
+  - - 5
+    - 0.5.........6...
+  - - 4
+    - 3...4.........5.
+  - - 3
+    - 0.....3...4.....
+  - - 0
+    - 6...............
+    - true
+- id: 31
+  name: Arpeggio 19
+  category: 6
+  time: 4/4
+  instrument: 0
+  transpose: -12
+  patterns:
+  - - 6
+    - 0.4.......4.....
+  - - 5
+    - 0.....6.......6.
+  - - 4
+    - 0...5.......5...
+  - - 3
+    - 3.......4.......
+  - - 0
+    - 5...............
+    - true
+- id: 32
+  name: Arpeggio 20
+  category: 6
+  time: 4/4
+  instrument: 1
+  transpose: -12
+  patterns:
+  - - 6
+    - 0.....6.........
+  - - 5
+    - 0...5...........
+  - - 4
+    - 0.4.............
+  - - 3
+    - 3.....4.........
+  - - 0
+    - 5...............
+    - true
+- id: 33
+  name: Arpeggio 21
+  category: 6
+  time: 4/4
+  instrument: 1
+  transpose: -12
+  patterns:
+  - - 6
+    - 0.....6.........
+  - - 5
+    - '..............6.'
+  - - 4
+    - 0.4.......4.....
+  - - 3
+    - 0...5.......5...
+  - - 0
+    - 4...............
+    - true
+- id: 34
+  name: Arpeggio 22
+  category: 6
+  time: 4/4
+  instrument: 1
+  transpose: -12
+  patterns:
+  - - 7
+    - 0.......5.......
+  - - 6
+    - 5....4.......4..
+  - - 5
+    - 0..5.......5....
+  - - 4
+    - 0.4...5...4...5.
+  - - 3
+    - 0...5...3...5...
+  - - 0
+    - 5...............
+    - true
+- id: 35
+  name: Arpeggio 23
+  category: 6
+  time: 4/4
+  instrument: 1
+  transpose: -12
+  patterns:
+  - - 6
+    - 0.........5.....
+  - - 5
+    - 0.....5.........
+  - - 4
+    - 0...4.......4...
+  - - 3
+    - 0.......5.......
+  - - 0
+    - 5...............
+    - true
+- id: 36
+  name: Arpeggio 24
+  category: 6
+  time: 4/4
+  instrument: 1
+  transpose: -12
+  patterns:
+  - - 6
+    - 0.......6.......
+  - - 5
+    - '....3.....5...3.'
+  - - 4
+    - 0.4...4.....4...
+  - - 3
+    - 3.......3.......
+  - - 0
+    - 5...............
+    - true
+- id: 37
+  name: Arpeggio 25
+  category: 6
+  time: 4/4
+  instrument: 1
+  transpose: -12
+  patterns:
+  - - 7
+    - 0.......5.......
+  - - 6
+    - 0..........4....
+  - - 5
+    - 0.............3.
+  - - 4
+    - 0....3..........
+  - - 3
+    - 0.4.....3.......
+  - - 0
+    - 5...............
+    - true
+- id: 38
+  name: Arpeggio 26
+  category: 6
+  time: 4/4
+  instrument: 1
+  transpose: -12
+  volume: 1
+  continous: true
+  patterns:
+  - - 6
+    - 0....5..........
+  - - 5
+    - 0..4...4.......4
+  - - 4
+    - 0.3......3....3.
+  - - 3
+    - 4..........45...
+  - - 0
+    - 4...............
+    - true
+- id: 39
+  name: Arpeggio 27 - 6/8
+  category: 6
+  time: 6/8
+  instrument: 1
+  transpose: -12
+  volume: 1
+  patterns:
+  - - 0
+    - 5.........3.
+    - true
+  - - 3
+    - 3...........
+  - - 4
+    - 0.4.......4.
+  - - 5
+    - '....5...5...'
+  - - 6
+    - '......6.....'
+- id: 400
+  name: Arpeggio 28
+  category: 6
+  time: 4/4
+  instrument: 1
+  delta: 8
+  continous: true
+  patterns:
+  - - 4
+    - 0.......5...5...........0...........5...........
+  - - 3
+    - 5.....6...6.5...........5...........5...........
+  - - 2
+    - 6...........5..5.....5..6.....6.....5...........
+  - - 1
+    - 5...........5.....6.....5.......5...5...........
+  - - 0
+    - 6.......................6.........5.0........6..
+  - - -2
+    - 0.........................................5.....
+  - - -12
+    - 5...........4...........5..............5........
+    - true
+- id: 91
+  name: Hammered 01
+  category: 6
+  time: 4/4
+  instrument: 0
+  patterns:
+  - - 0
+    - 5...............
+    - true
+  - - 3
+    - 4...............
+  - - 4
+    - 5...............
+  - - 5
+    - 4...............
+  - - 6
+    - 5...............
+- id: 92
+  name: Hammered 02
+  category: 6
+  time: 4/4
+  instrument: 0
+  patterns:
+  - - 0
+    - 5...............
+    - true
+  - - 3
+    - 4.......2.......
+  - - 4
+    - 5.......3.......
+  - - 5
+    - 4.......4.......
+  - - 6
+    - 5.......3.......
+- id: 93
+  name: Hammered 03
+  category: 6
+  time: 4/4
+  instrument: 0
+  patterns:
+  - - 0
+    - 5...............
+    - true
+  - - 3
+    - 4...3...5...4...
+  - - 4
+    - 5...4...3...4...
+  - - 5
+    - 4...3...4...3...
+  - - 6
+    - 5...4...3...4...
+- id: 94
+  name: Hammered 04
+  category: 6
+  time: 4/4
+  instrument: 0
+  volume: 1
+  patterns:
+  - - 0
+    - 4...............
+    - true
+  - - 3
+    - 4.3.4.3.
+  - - 4
+    - 3.3.3.2.
+  - - 5
+    - 4.3.3.3.
+  - - 6
+    - 3.2.3.3.
+- id: 95
+  name: Hammered 05
+  category: 6
+  time: 4/4
+  instrument: 0
+  volume: 1
+  patterns:
+  - - -12
+    - 5.....5.......5.
+    - true
+  - - 0
+    - 5...4...4...5...
+    - false
+  - - 1
+    - 4...4...3...4...
+    - false
+  - - 2
+    - 4...3...4...5...
+    - false
+  - - 3
+    - 5...4...4...4...
+    - false
+- id: 96
+  name: Hammered 06
+  category: 6
+  time: 4/4
+  instrument: 0
+  volume: 2
+  patterns:
+  - - -12
+    - 4.....2...3...4.
+    - true
+  - - 0
+    - 3...3...2...3...
+    - false
+  - - 1
+    - 4...2...3...2...
+    - false
+  - - 2
+    - 3...3...3...2...
+    - false
+  - - 3
+    - 4...2...2...3...
+    - false
+- id: 97
+  name: Hammered 07
+  category: 6
+  time: 4/4
+  instrument: 1
+  volume: 1
+  patterns:
+  - - 0
+    - 4...............
+    - true
+  - - 2
+    - 4.2...4.3.3...3.
+  - - 3
+    - 3.3...3.4.3...4.
+  - - 4
+    - 4.3...3.3.4...3.
+  - - 5
+    - 3.3...3.4.3...3.
+- id: 98
+  name: Hammered 08
+  category: 6
+  time: 4/4
+  instrument: 1
+  continous: true
+  patterns:
+  - - 3
+    - 0...4.5.6..6..5...4...5.5...5...
+  - - 4
+    - 0...4.5.5..5..6...4...4.4...5...
+  - - 5
+    - 0...4.5.6..6..5...4...5.6...5...
+  - - 6
+    - 0...4.5.5..5..5...4...4.5...6...
+- id: 99
+  name: Hammered 09
+  category: 6
+  time: 4/4
+  instrument: 1
+  leading: 14
+  continous: true
+  patterns:
+  - - -12
+    - 4.............4.................
+    - true
+  - - 2
+    - 4.0.4....05.0.4...5...3.4...5...
+  - - 3
+    - 5.0.5....05.0.4...4...4.3...4...
+  - - 4
+    - 4.0.5....04.0.4...5...4.4...5...
+  - - 5
+    - 4.0.4....04.0.5...4...3.3...4...
+- id: 100
+  name: Hammered 10
+  category: 6
+  time: 4/4
+  instrument: 1
+  leading: 14
+  continous: true
+  patterns:
+  - - 7
+    - 60..5....060..5....060....50....
+  - - 5
+    - 60..5....060..5....060....50....
+  - - 4
+    - 50..5....060..6....050....50....
+  - - 2
+    - 60..6....050..5....050....60....
+  - - 0
+    - 60..6....050..5....050....60....
+- id: 101
+  name: Hammered 11
+  category: 6
+  time: 4/4
+  instrument: 1
+  transpose: -12
+  volume: 2
+  patterns:
+  - - 0
+    - 4.......0.......
+    - true
+  - - 2
+    - 0.......4.......
+    - false
+  - - 4
+    - 0.2...2...2...2.
+    - false
+  - - 5
+    - 0...3.......3.2.
+    - false
+  - - 6
+    - 0...4.......4...
+    - false
+  - - 7
+    - 0...3.......3...
+    - false
+- id: 102
+  name: Hammered 12
+  category: 6
+  time: 4/4
+  instrument: 1
+  volume: 1
+  patterns:
+  - - -12
+    - 4...............
+    - true
+  - - 0
+    - 3.423.42
+  - - 1
+    - 3.322.32
+  - - 2
+    - 2.313.31
+  - - 3
+    - 3.313.21
+- id: 103
+  name: Hammered 13
+  category: 6
+  time: 4/4
+  instrument: 1
+  volume: 2
+  patterns:
+  - - -12
+    - 4...............
+    - true
+  - - 0
+    - 3...4...3...3...
+  - - 1
+    - 4...3...4...3.4.
+  - - 2
+    - 3...3..43.3.3..4
+  - - 3
+    - 3...4...24..3...
+- id: 104
+  name: Hammered 14
+  category: 6
+  time: 4/4
+  instrument: 1
+  patterns:
+  - - 0
+    - 50.50.50.50.5050
+    - true
+  - - 2
+    - 50.50.50.50.5050
+  - - 3
+    - 50.50.50.50.5050
+  - - 4
+    - 50.50.50.50.5050
+  - - 5
+    - 50.50.50.50.5050
+- id: 105
+  name: Hammered 15
+  category: 6
+  time: 4/4
+  instrument: 1
+  transpose: -12
+  volume: 1
+  patterns:
+  - - -12
+    - 3.......
+    - true
+  - - 3
+    - 4.3.4.3.
+  - - 4
+    - 3.2.3.2.
+  - - 5
+    - 4.2.3.3.
+  - - 6
+    - 3.2.4.3.
+- id: 106
+  name: Hammered 16
+  category: 6
+  time: 4/4
+  instrument: 0
+  transpose: -12
+  volume: 1
+  patterns:
+  - - 0
+    - 5...............
+    - true
+  - - 3
+    - 0.4...........4.
+  - - 4
+    - '....4.......4...'
+  - - 5
+    - '......5.........'
+  - - 6
+    - '......4.........'
+- id: 107
+  name: Hammered 17
+  category: 6
+  time: 4/4
+  instrument: 1
+  patterns:
+  - - 0
+    - 5...............
+    - true
+  - - 3
+    - 55.554.464.454.5
+  - - 4
+    - 64.454.554.554.5
+  - - 5
+    - 54.564.454.454.4
+  - - 6
+    - 55.454.554.564.5
+- id: 108
+  name: Hammered 18
+  category: 6
+  time: 4/4
+  instrument: 0
+  volume: 2
+  patterns:
+  - - -12
+    - 3...............
+    - true
+  - - 2
+    - '....30......30..'
+  - - 3
+    - '....40......40..'
+  - - 4
+    - '....30......30..'
+  - - 5
+    - '....40......40..'
+- id: 109
+  name: Hammered 19
+  category: 6
+  time: 4/4
+  instrument: 1
+  volume: 1
+  patterns:
+  - - -12
+    - 4...............
+    - true
+  - - 2
+    - 0...5.2.0...4.0.
+  - - 3
+    - 0...4.3.0...5.0.
+  - - 4
+    - 0...5.2.0...4.0.
+  - - 5
+    - 0...4.3.0...5.0.
+- id: 110
+  name: Hammered 20
+  category: 6
+  time: 4/4
+  instrument: 1
+  volume: 1
+  patterns:
+  - - -12
+    - 4.3....4..33....
+    - true
+  - - 3
+    - 0..4.3...4..3.3.
+    - false
+  - - 4
+    - 0..4.3...4..3.4.
+    - false
+  - - 5
+    - 0..4.3...4..3.3.
+    - false
+  - - 6
+    - 0..4.3...4..3.4.
+    - false
+- id: 111
+  name: Hammered 21
+  category: 6
+  time: 4/4
+  instrument: 1
+  patterns:
+  - - 0
+    - 5...............
+    - true
+  - - 3
+    - 5.203020304.5.5.
+  - - 4
+    - 5.304040303.4.5.
+  - - 5
+    - 5.404030303.4.5.
+  - - 6
+    - 5.403040304.3.4.
+- id: 112
+  name: Hammered 22
+  category: 6
+  time: 4/4
+  instrument: 0
+  transpose: -12
+  volume: 1
+  invert: false
+  continous: true
+  patterns:
+  - - 0
+    - 5...0...........
+    - true
+  - - 2
+    - 0.......5...0...
+  - - 4
+    - 0...40......30..
+  - - 5
+    - 0...30......40..
+  - - 6
+    - 0...40......30..
+  - - 7
+    - 0...30......40..
+- id: 113
+  name: Hammered 23
+  category: 6
+  time: 4/4
+  instrument: 0
+  transpose: -12
+  invert: false
+  patterns:
+  - - 0
+    - 6.......0.......
+  - - 2
+    - 0.......6.......
+  - - 3
+    - 0.4.0.4.0.4.0.4.
+  - - 4
+    - 0...4.......5...
+  - - 5
+    - 0...5.......4...
+  - - 6
+    - 0...6.......6...
+- id: 114
+  name: Hammered 24
+  category: 6
+  time: 4/4
+  instrument: 1
+  transpose: -12
+  volume: 1
+  patterns:
+  - - 0
+    - 4...0...4...0...
+    - true
+  - - 3
+    - 4.3.0.3.4.3.0.2.
+  - - 4
+    - 3.3.0.3.3.4.0.4.
+  - - 5
+    - 2.4.0.4.3.4.0.4.
+  - - 6
+    - 3.5.0.5.2.5.0.5.
+- id: 115
+  name: Hammered 25 - 5/4
+  category: 6
+  time: 5/4
+  instrument: 1
+  sustain: true
+  continous: true
+  patterns:
+  - - 0
+    - ..5.....5...4...4...
+    - false
+  - - 1
+    - ..4.....5...5...5...
+    - false
+  - - 2
+    - ..5.....5...4...4...
+    - false
+  - - 3
+    - ..4.....5...5...4...
+    - false
+  - - -12
+    - 5.....5...4.5...5.4.
+    - true
+- id: 116
+  name: Hammered 26 - 3/4
+  category: 6
+  time: 4/4
+  instrument: 0
+  transpose: -12
+  volume: 2
+  patterns:
+  - - 0
+    - 4...........
+    - true
+  - - 3
+    - '....3.0.40..'
+  - - 4
+    - '....4.0.30..'
+  - - 5
+    - '....3.0.40..'
+  - - 6
+    - '....4.0.30..'
+- id: 117
+  name: Hammered 27 - 3/4
+  category: 6
+  time: 4/4
+  instrument: 0
+  transpose: -12
+  volume: 2
+  patterns:
+  - - 0
+    - 4...........
+    - true
+  - - 3
+    - 3...3...2...
+    - false
+  - - 4
+    - 4...2...3...
+    - false
+  - - 5
+    - 3...3...2...
+    - false
+  - - 6
+    - 4...2...3...
+    - false
+- id: 394
+  name: Hammered 28
+  category: 6
+  time: 4/4
+  instrument: 1
+  volume: 1
+  continous: true
+  patterns:
+  - - 3
+    - 0.5..4..5..5..4.
+  - - 2
+    - 0.4..5..4..4..5.
+  - - 1
+    - 0.5..4..5..5..4.
+  - - 0
+    - 0.4..5..4..4..5.
+  - - -12
+    - 5...4..4..4..4.3
+    - true
+- id: 407
+  name: Hammered 29
+  category: 6
+  time: 4/4
+  instrument: 1
+  continous: true
+  patterns:
+  - - 3
+    - 6...5...5...6...
+  - - 2
+    - 6...6...6...5...
+  - - 1
+    - 6...5...5...6...
+  - - 0
+    - 0.6...6...6...6.
+  - - -12
+    - 7...............
+    - true
+- id: 412
+  name: Hammered 30
+  category: 6
+  time: 4/4
+  instrument: 1
+  patterns:
+  - - -12
+    - 5.0.........5...
+    - true
+  - - 2
+    - 6.0.............
+  - - 3
+    - 5.0.........5...
+  - - 4
+    - 6.0.........4...
+  - - 5
+    - 5.0.........5...
+  - - 6
+    - 0...........6...
+- id: 420
+  name: Hammered 31
+  category: 6
+  time: 4/4
+  instrument: 0
+  volume: 1
+  leading: 30
+  invert: false
+  continous: true
+  patterns:
+  - - 0
+    - 5...............
+    - true
+  - - 1
+    - ..4...4...4...5.
+  - - 2
+    - '....4...5...4...'
+  - - 3
+    - 5...............
+  - - 4
+    - 4...............
+- id: 429
+  name: Hammered 32
+  category: 6
+  time: 4/4
+  instrument: 1
+  invert: false
+  patterns:
+  - - 5
+    - '................................'
+    - true
+  - - 2
+    - '................................'
+    - true
+  - - 3
+    - '................................'
+  - - 2
+    - '.....5..........................'
+  - - -12
+    - 5.5.............................
+    - true
+- id: 380
+  name: Hammered 33
+  category: 6
+  time: 4/4
+  instrument: 1
+  patterns:
+  - - 3
+    - 8..........09.............089...
+  - - 2
+    - 7..............08.............07
+  - - 1
+    - 8.........4.8..07........05.9...
+  - - 0
+    - 7...5...4..6.4.7....5...4..6.7..
+  - - -12
+    - 7..............05...............
+    - true
+- id: 386
+  name: Hammered 34
+  category: 6
+  time: 4/4
+  instrument: 1
+  patterns:
+  - - 0
+    - 8.7.7.7.7.7.7.7.
+  - - 2
+    - 8.7.7.7.7.7.7.7.
+  - - 5
+    - 8.7.7.7.7.7.7.7.
+  - - 7
+    - 8.7.7.7.7.7.7.7.
+- id: 430
+  name: Hammered 35
+  category: 6
+  time: 4/4
+  instrument: 1
+  volume: 2
+  invert: false
+  continous: true
+  patterns:
+  - - 3
+    - 0...4...4.4...4.4...4...4.4.4.4.
+  - - 2
+    - 0...4...4.4...4.4...4...4.4.4.4.
+  - - 5
+    - 0...............5...............
+    - true
+  - - 1
+    - 0...5...0.5...5.0...5...0.5.0...
+  - - 2
+    - 0.......5...............5.0.5...
+    - true
+  - - 0
+    - 0.............................5.
+    - true
+  - - -12
+    - 4.3...4.....4...4.3...4.....4...
+    - true
+- id: 265
+  name: Shuffle 01
+  category: 6
+  time: 4/4
+  instrument: 1
+  transpose: -12
+  delta: 4
+  continous: true
+  patterns:
+  - - 0
+    - 5.0.4.0.....
+    - true
+  - - 3
+    - 0.....5.0.4.
+  - - 4
+    - 0.....4.0.4.
+  - - 5
+    - 0.....5.0.4.
+  - - 6
+    - 0.....4.0.4.
+- id: 268
+  name: Shuffle 02
+  category: 6
+  time: 4/4
+  instrument: 1
+  transpose: -12
+  delta: 4
+  continous: true
+  patterns:
+  - - 0
+    - 5...4.......
+    - true
+  - - 3
+    - 0...0.5...4.
+  - - 4
+    - 0...0.4...4.
+  - - 5
+    - 0...0.5...4.
+  - - 6
+    - 0...0.4...4.
+- id: 271
+  name: Shuffle 03
+  category: 6
+  time: 4/4
+  instrument: 1
+  delta: 8
+  volume: 1
+  patterns:
+  - - 0
+    - 3...........
+    - true
+  - - 3
+    - 3....3......
+  - - 4
+    - 4....4......
+  - - 5
+    - 3....3......
+  - - 6
+    - 4....4......
+- id: 195
+  name: Piano Bass 01
+  category: 6
+  time: 4/4
+  instrument: 0
+  transpose: -24
+  invert: false
+  patterns:
+  - - 0
+    - 7...............
+    - true
+- id: 196
+  name: Piano Bass 02
+  category: 6
+  time: 4/4
+  instrument: 0
+  transpose: -24
+  invert: false
+  patterns:
+  - - 0
+    - 7.......5.......
+    - true
+- id: 197
+  name: Piano Bass 03
+  category: 6
+  time: 4/4
+  instrument: 0
+  transpose: -24
+  invert: false
+  patterns:
+  - - 0
+    - 6...5...5...5...
+    - true
+- id: 198
+  name: Piano Bass 04
+  category: 6
+  time: 4/4
+  instrument: 0
+  transpose: -24
+  invert: false
+  patterns:
+  - - 0
+    - 6.5.5.5.6.5.5.5.
+    - true
+- id: 199
+  name: Piano Bass 05
+  category: 6
+  time: 4/4
+  instrument: 0
+  transpose: -24
+  invert: false
+  patterns:
+  - - 0
+    - 7.......0.......
+  - - 2
+    - 0.......7.......
+- id: 200
+  name: Piano Bass 06
+  category: 6
+  time: 4/4
+  instrument: 1
+  transpose: -12
+  invert: false
+  continous: true
+  patterns:
+  - - 0
+    - 6.............5.
+    - true
+  - - 2
+    - 5.......4.......
+    - false
+  - - 4
+    - 0.......6.......
+    - false
+- id: 201
+  name: Piano Bass 07
+  category: 6
+  time: 4/4
+  instrument: 0
+  transpose: -12
+  invert: false
+  patterns:
+  - - 0
+    - ..5...4...4...5.
+    - true
+- id: 202
+  name: Piano Bass 08
+  category: 6
+  time: 4/4
+  instrument: 0
+  transpose: -12
+  invert: false
+  continous: true
+  patterns:
+  - - 0
+    - 5...4...4...5...
+    - true
+  - - 2
+    - 3...2...3...4...
+- id: 203
+  name: Piano Bass 09
+  category: 6
+  time: 4/4
+  instrument: 0
+  transpose: -24
+  invert: false
+  patterns:
+  - - 0
+    - 6.............5.
+    - true
+  - - 12
+    - 0.....4.........
+    - true
+- id: 204
+  name: Piano Bass 10
+  category: 6
+  time: 4/4
+  instrument: 1
+  transpose: -12
+  invert: false
+  patterns:
+  - - 0
+    - 6...............
+    - true
+  - - 2
+    - 4.......4.......
+    - false
+  - - 4
+    - 0.......6.......
+    - false
+- id: 205
+  name: Piano Bass 11
+  category: 6
+  time: 4/4
+  instrument: 0
+  transpose: -12
+  invert: false
+  patterns:
+  - - 0
+    - 7...0.6.0.......
+  - - -2
+    - 0.......7...0...
+  - - -1
+    - 0...........7...
+- id: 1
+  name: Arp 01
+  category: 7
+  time: 4/4
+  instrument: 38
+  patterns:
+  - - -12
+    - 5...............
+    - true
+  - - 0
+    - 0..6
+    - false
+  - - 1
+    - ..60
+    - false
+  - - 2
+    - .60.
+    - false
+  - - 3
+    - 60..
+    - false
+- id: 2
+  name: Arp 02
+  category: 7
+  time: 4/4
+  instrument: 38
+  patterns:
+  - - -12
+    - 5...............
+    - true
+  - - 3
+    - 0..6
+  - - 2
+    - ..60
+  - - 1
+    - .60.
+  - - 0
+    - 60..
+- id: 3
+  name: Arp 03
+  category: 7
+  time: 4/4
+  instrument: 38
+  patterns:
+  - - -12
+    - 5...............
+    - true
+  - - 0
+    - 60......
+  - - 1
+    - 060....6
+  - - 2
+    - ..60..60
+  - - 3
+    - '...6060.'
+  - - 4
+    - '....60..'
+- id: 4
+  name: Arp 04
+  category: 7
+  time: 4/4
+  instrument: 38
+  volume: 2
+  continous: true
+  patterns:
+  - - 3
+    - 4.0.......4.0...
+  - - 0
+    - .4.0.....4.4.0..
+  - - 5
+    - ..4.0...4.0.4.0.
+  - - 2
+    - '...4.0.4.0...4.0'
+  - - 1
+    - 0...4.4.0.....4.
+  - - 4
+    - .0...4.0.......4
+- id: 5
+  name: Arp 05
+  category: 7
+  time: 4/4
+  instrument: 38
+  patterns:
+  - - 0
+    - 0.50.406
+    - true
+  - - 1
+    - .50.4040
+  - - 2
+    - 50.4050.
+  - - 3
+    - 0.4060.5
+  - - 4
+    - .4040.50
+  - - 5
+    - 4050.50.
+  - - 6
+    - 060.50.4
+  - - 7
+    - 60.50.40
+- id: 6
+  name: Arp 06
+  category: 7
+  time: 4/4
+  instrument: 38
+  patterns:
+  - - 7
+    - 0.50.406
+  - - 6
+    - .50.4060
+  - - 5
+    - 50.4060.
+  - - 4
+    - 0.4060.5
+  - - 3
+    - .4060.50
+  - - 2
+    - 4060.50.
+  - - 1
+    - 060.50.4
+  - - 0
+    - 60.50.40
+    - true
+- id: 7
+  name: Arp 07
+  category: 7
+  time: 4/4
+  instrument: 38
+  patterns:
+  - - 1
+    - 7.0...7.0...7.0.
+  - - 2
+    - .6.0...6.0...6.0
+  - - 3
+    - 0.5.0...5.0...5.
+  - - 4
+    - .0.7.0...7.0...7
+  - - 5
+    - '....6.0...6.0...'
+  - - 6
+    - '.....5.0...5.0..'
+  - - -12
+    - 6.....5.....5...
+    - true
+- id: 8
+  name: Arp 08
+  category: 7
+  time: 4/4
+  instrument: 38
+  patterns:
+  - - 6
+    - 7.0...7.0...7.0.
+  - - 5
+    - .6.0...6.0...6.0
+  - - 4
+    - 0.5.0...5.0...5.
+  - - 3
+    - .0.7.0...7.0...7
+  - - 2
+    - '....6.0...6.0...'
+  - - 1
+    - '.....5.0...5.0..'
+  - - -12
+    - 7.....6.....6...
+    - true
+- id: 9
+  name: Arp 09
+  category: 7
+  time: 4/4
+  instrument: 38
+  transpose: 12
+  delta: 3
+  patterns:
+  - - -12
+    - 6...............
+    - true
+  - - 0
+    - 5.....5.....5...
+  - - 1
+    - '....5.....5.....'
+  - - 2
+    - ..6.....6.....6.
+  - - 3
+    - 7.....7.....7...
+- id: 10
+  name: Arp 10
+  category: 7
+  time: 4/4
+  instrument: 38
+  sustain: true
+  patterns:
+  - - 0
+    - 7..6..5..4..3..2
+  - - 1
+    - ..7..6..5..4..3.
+  - - 2
+    - .2..7..6..5..4..
+  - - 3
+    - 4..3..7..6..5..4
+  - - 4
+    - ..2..3..7..6..5.
+  - - 5
+    - .1..2..3..7..6..
+- id: 11
+  name: Arp 11
+  category: 7
+  time: 4/4
+  instrument: 38
+  delta: 3
+  patterns:
+  - - -24
+    - 4...............
+    - true
+  - - 3
+    - '......6.........'
+  - - 4
+    - '....4...5.......'
+  - - 5
+    - ..5.......4...5.
+  - - 6
+    - 6...........6...
+- id: 12
+  name: Arp 12
+  category: 7
+  time: 4/4
+  instrument: 38
+  volume: 2
+  continous: true
+  patterns:
+  - - -24
+    - 2...2...2...2...
+    - true
+  - - 0
+    - 4...3...4...5...
+    - false
+  - - 1
+    - .2...3...4...4..
+    - false
+  - - 2
+    - ..3...4...4...4.
+    - false
+  - - 3
+    - .2.4...4...5...5
+    - false
+  - - 4
+    - 4...............
+    - false
+- id: 376
+  name: Arp 13
+  category: 7
+  time: 4/4
+  instrument: 38
+  continous: true
+  patterns:
+  - - 4
+    - 0......0...5....
+  - - 3
+    - 0.5..5.0......5.
+  - - 2
+    - 0...5..0.5.....5
+  - - 1
+    - 0..5...05.......
+  - - 0
+    - 5......5..5.....
+    - true
+- id: 40
+  name: Attack 01
+  category: 7
+  time: 4/4
+  instrument: 38
+  patterns:
+  - - 2
+    - 6..5..4..3..2..1
+  - - 3
+    - 5..5..4..3..2..1
+  - - 4
+    - 4..4..3..3..1..1
+  - - 5
+    - 3..3..3..2..2..1
+- id: 41
+  name: Attack 02
+  category: 7
+  time: 4/4
+  instrument: 38
+  type: guitar
+  patterns:
+  - - 0
+    - 5.13014.13014.21
+    - true
+  - - 2
+    - 3.14013.14013.31
+  - - 3
+    - 4.13014.13014.21
+  - - 4
+    - 3.14013.14013.21
+  - - 5
+    - 4.13014.13014.41
+- id: 42
+  name: Attack 03
+  category: 7
+  time: 4/4
+  instrument: 38
+  volume: 1
+  patterns:
+  - - 0
+    - 4.3.0.3.4.3.0.3.
+    - true
+  - - 2
+    - 4.3.0.4.3.3.0.3.
+  - - 3
+    - 3.3.0.3.4.3.0.4.
+  - - 4
+    - 4.3.0.3.3.4.0.3.
+  - - 5
+    - 3.3.0.3.4.3.0.3.
+- id: 43
+  name: Attack 04
+  category: 7
+  time: 4/4
+  instrument: 88
+  sustain: true
+  patterns:
+  - - 0
+    - 6...............................
+  - - 1
+    - 5...............................
+  - - 2
+    - 6...............................
+  - - 3
+    - 5...............................
+- id: 44
+  name: Attack 05
+  category: 7
+  time: 4/4
+  instrument: 52
+  patterns:
+  - - 0
+    - 5...............................
+    - true
+  - - 2
+    - 4...............................
+  - - 3
+    - 5...............................
+  - - 4
+    - 4...............................
+  - - 5
+    - 4...............................
+- id: 45
+  name: Attack 06
+  category: 7
+  time: 4/4
+  instrument: 38
+  patterns:
+  - - 0
+    - 540.540.54050505
+    - true
+  - - 2
+    - 540.540.54050505
+  - - 3
+    - 540.540.54050505
+  - - 4
+    - 540.540.54050505
+  - - 5
+    - 540.540.54050505
+- id: 46
+  name: Attack 07
+  category: 7
+  time: 4/4
+  instrument: 38
+  patterns:
+  - - 0
+    - 5...............
+    - true
+  - - 2
+    - 5.15.15.15.15.15
+  - - 3
+    - 5.15.15.15.15.15
+  - - 4
+    - 5.15.15.15.15.15
+  - - 5
+    - 5.15.15.15.15.15
+- id: 408
+  name: Attack 08
+  category: 7
+  time: 4/4
+  instrument: 38
+  continous: true
+  patterns:
+  - - 3
+    - '6054505450505054'
+  - - 2
+    - '6054505450505054'
+  - - 1
+    - '6054505450505054'
+  - - 0
+    - '6054505450505054'
+  - - -12
+    - 5...5...5...5...
+    - true
+- id: 434
+  name: Attack 09
+  category: 7
+  time: 4/4
+  instrument: 38
+  continous: true
+  patterns:
+  - - 0
+    - 5...5.5...5...5.
+    - true
+  - - 2
+    - 5...5.5...5...5.
+  - - 3
+    - 5...5.5...5...5.
+  - - 4
+    - 5...5.5.........
+  - - 5
+    - 0.........5...5.
+- id: 312
+  name: Strings 01
+  category: 7
+  time: 4/4
+  instrument: 50
+  patterns:
+  - - 0
+    - 4...............
+    - true
+  - - 2
+    - 4...............
+  - - 3
+    - 4...............
+  - - 4
+    - 4...............
+  - - 5
+    - 4...............
+- id: 313
+  name: Strings 02
+  category: 7
+  time: 4/4
+  instrument: 50
+  transpose: -12
+  invert: false
+  patterns:
+  - - 0
+    - 5...............
+    - true
+  - - 2
+    - 4...............
+    - false
+- id: 314
+  name: Strings 03
+  category: 7
+  time: 4/4
+  instrument: 50
+  transpose: 12
+  volume: 1
+  patterns:
+  - - 0
+    - '....30......30..'
+  - - 1
+    - 50......50......
+  - - 2
+    - ..60..60..60..60
+  - - 3
+    - '....70......70..'
+- id: 315
+  name: Strings 04
+  category: 7
+  time: 4/4
+  instrument: 50
+  transpose: 12
+  volume: 2
+  patterns:
+  - - 0
+    - 50....50....50..
+  - - 1
+    - '....50....50....'
+  - - 2
+    - ..60....60....60
+  - - 3
+    - 60....60....60..
+- id: 393
+  name: Strings 05
+  category: 7
+  time: 4/4
+  instrument: 50
+  transpose: -12
+  patterns:
+  - - 0
+    - 5...............
+    - true
+  - - 2
+    - 4...............
+  - - 5
+    - 4...............
+  - - 6
+    - 4...............
+  - - 7
+    - 4...............
+  - - 8
+    - 4...............
+- id: 413
+  name: Strings 06
+  category: 7
+  time: 4/4
+  instrument: 50
+  patterns:
+  - - -12
+    - 50..............
+    - true
+  - - 2
+    - 60..............
+  - - 4
+    - 50..............
+  - - 5
+    - 60..............
+  - - 6
+    - 50..............
+  - - 7
+    - 50..............
+- id: 416
+  name: Strings 07
+  category: 7
+  time: 4/4
+  instrument: 50
+  patterns:
+  - - -12
+    - 50........50....
+    - true
+  - - 2
+    - 50........50....
+  - - 4
+    - 60........50....
+  - - 5
+    - 50........50....
+  - - 6
+    - 50........50....
+  - - 7
+    - 50........50....
+- id: 415
+  name: Strings 08
+  category: 7
+  time: 4/4
+  instrument: 50
+  patterns:
+  - - -12
+    - 50..40..40..40..
+    - true
+  - - 2
+    - 50..50..50..50..
+  - - 4
+    - 60..50..50..50..
+  - - 5
+    - 50..50..50..50..
+  - - 6
+    - 50..50..50..50..
+  - - 7
+    - 50..50..50..50..
+- id: 414
+  name: Strings 09
+  category: 7
+  time: 4/4
+  instrument: 50
+  patterns:
+  - - -12
+    - 5.0.........5.0.
+    - true
+  - - 2
+    - 0...........6.0.
+  - - 3
+    - 5.0.........5.0.
+  - - 4
+    - 6.0.........4.0.
+  - - 5
+    - 5.0.........5.0.
+  - - 6
+    - 6.0.............
+- id: 47
+  name: Bass 01
+  category: 7
+  time: 4/4
+  instrument: 38
+  transpose: -24
+  volume: 1
+  patterns:
+  - - 0
+    - 5.....4.3.....4.
+    - true
+- id: 48
+  name: Bass 02
+  category: 7
+  time: 4/4
+  instrument: 38
+  transpose: -24
+  patterns:
+  - - 0
+    - 7...........5.76
+    - true
+- id: 49
+  name: Bass 03
+  category: 7
+  time: 4/4
+  instrument: 38
+  transpose: -24
+  volume: 1
+  invert: false
+  patterns:
+  - - 0
+    - 550...550...5.33
+    - true
+- id: 50
+  name: Bass 04
+  category: 7
+  time: 4/4
+  instrument: 38
+  transpose: -24
+  volume: 1
+  invert: false
+  patterns:
+  - - 0
+    - 5.4...5.......43
+    - true
+- id: 51
+  name: Bass 05
+  category: 7
+  time: 4/4
+  instrument: 38
+  transpose: -24
+  patterns:
+  - - 0
+    - 6.5..6..6..5..6.
+    - true
+- id: 52
+  name: Bass 06
+  category: 7
+  time: 4/4
+  instrument: 38
+  transpose: -24
+  invert: false
+  type: bass
+  patterns:
+  - - 0
+    - 7.5.5.7.5.5.7.5.
+    - true
+- id: 53
+  name: Bass 07
+  category: 7
+  time: 4/4
+  instrument: 50
+  transpose: -24
+  invert: false
+  patterns:
+  - - 0
+    - 5...............
+    - true
+- id: 423
+  name: Bass 08
+  category: 7
+  time: 4/4
+  instrument: 38
+  transpose: -24
+  invert: false
+  continous: true
+  patterns:
+  - - 0
+    - 6.0............66.0.............
+    - true
+- id: 432
+  name: Bass 09
+  category: 7
+  time: 4/4
+  instrument: 38
+  transpose: -24
+  invert: false
+  continous: true
+  patterns:
+  - - 0
+    - 0.7.0.7.0.7.0.7.
+    - true
+- id: 433
+  name: Bass 10
+  category: 7
+  time: 4/4
+  instrument: 38
+  transpose: -24
+  invert: false
+  continous: true
+  patterns:
+  - - 0
+    - 70670...7067060.
+    - true
+- id: 375
+  name: Bass 11
+  category: 7
+  time: 4/4
+  instrument: 38
+  transpose: -12
+  invert: false
+  continous: true
+  type: bass
+  patterns:
+  - - 0
+    - .5....05.05.050.
+    - true
+  - - -12
+    - 50....50.50.505.
+    - true
+- id: 388
+  name: Bass 12
+  category: 7
+  time: 4/4
+  instrument: 38
+  transpose: -12
+  invert: false
+  continous: true
+  type: bass
+  patterns:
+  - - 0
+    - 0.780.780.780.780.780.780.780.78
+  - - 0
+    - .8080...........................
+  - - -12
+    - 7070............................

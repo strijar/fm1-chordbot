@@ -1,0 +1,84 @@
+format: chordbot-linux
+version: 1
+name: Lynchian Lounge
+tempo: 74
+sections:
+- name: Intensity level 1
+  preset: -1
+  reverb: 8
+  chorus: 4
+  parts:
+  - track: 249
+    volume: 7
+  - track: 86
+    volume: 7
+  - track: 303
+    volume: 7
+  chords:
+  - root: E
+    type: MinAdd9
+    beats: 8
+  - root: A
+    type: MinAdd9
+    beats: 8
+  - root: Ab
+    type: Aug
+    beats: 8
+  - root: G
+    type: Aug
+    beats: 8
+- name: Intensity level 2
+  preset: -1
+  reverb: 8
+  chorus: 4
+  parts:
+  - track: 13
+    volume: 5
+  - track: 130
+    volume: 7
+  - track: 303
+    volume: 7
+  - track: 249
+    volume: 5
+  chords:
+  - root: E
+    type: MinAdd9
+    beats: 8
+    inversion: 4
+  - root: A
+    type: MinAdd9
+    beats: 8
+  - root: Ab
+    type: Aug
+    beats: 8
+  - root: G
+    type: Aug
+    beats: 8
+- name: Intensity level 3
+  preset: -1
+  reverb: 8
+  chorus: 4
+  parts:
+  - track: 13
+    volume: 8
+  - track: 288
+    volume: 8
+  - track: 142
+    volume: 9
+  - track: 172
+    volume: 6
+  chords:
+  - root: E
+    type: MinAdd9
+    beats: 8
+    inversion: 6
+  - root: A
+    type: MinAdd9
+    beats: 8
+    inversion: 6
+  - root: Ab
+    type: Aug
+    beats: 8
+  - root: G
+    type: Aug
+    beats: 8
